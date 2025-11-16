@@ -12,7 +12,7 @@
 > * I am always seeking opportunities to apply my skills in predictive analytics and algorithmic development to solve challenging problems in finance and tech.
 
 <h3>Programming Languages</h3>
-<p align="center">
+<p align="left">
   <a href="https://github.com/charlesakinnurun/">
     <img alt="Programming Languages" src="https://skillicons.dev/icons?i=python,R">
   </a>
