@@ -14,6 +14,6 @@
 <h3>Programming Languages</h3>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
-    <img alt="Programming Languages" src="https://skillicons.dev/icons?i=python,R">
+    <img alt="Programming Languages" src="https://skillicons.dev/icons?i=python,r">
   </a>
 </p>
