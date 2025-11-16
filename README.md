@@ -2,7 +2,7 @@
 
 <!-- # [Charles Akinnurun](https://github.com/CharlesAkinnurun)-->
 
-<h1 align="center">I'm Charles Akinnurun! 👋</h1>
+<h1 align="center">Hi 👋, I'm Charles Akinnurun</h1>
 
 <h2 align="center">Data Scientist, Machine Learning Engineer, and Quant Dev passionate about building scalable, production-ready AI solutions.</h2>
 
