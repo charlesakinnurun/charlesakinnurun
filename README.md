@@ -24,3 +24,10 @@
     <img alt="Libraries" src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,seaborn">
     </a>
 </p>
+
+
+<p align="left">
+  <a href="https://siddhesh.cc/">
+    <img alt="My Skills" src="https://skillicons.dev/icons?i=python,anaconda,django,flask,fastapi,tensorflow,pytorch,sklearn,opencv,html,css,htmx,sass,bootstrap,tailwind,jquery,js,ts,vite,react,redux,materialui,nextjs,express,nodejs,bun,deno,php,laravel,go,c,cpp,cmake,java,spring,matlab,mysql,postgres,sqlite,mongodb,redis,aws,azure,cloudflare,vercel,nginx,firebase,supabase,git,github,githubactions,gitlab,docker,bash,powershell,neovim,latex,md,postman,linux">
+  </a>
+</p>
