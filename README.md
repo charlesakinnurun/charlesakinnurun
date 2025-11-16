@@ -14,14 +14,14 @@
 <h3>Programming Languages</h3>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
-    <img alt="Programming Languages" src="https://skillicons.dev/icons?i=python,r">
+    <img alt="Programming Languages" src="https://i.icoziv.workers.dev/icons?i=pandas,numpy-light&t=light">
   </a>
 </p>
 
 <h3>Libraries</h3>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
-    <img alt="Libraries" src="https://i.icoziv.workers.dev/icons?i=pandas-light&t=light">
+    <img alt="Libraries" src="https://i.icoziv.workers.dev/icons?i=pandas,numpy-light&t=light">
     </a>
 </p>
 
