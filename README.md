@@ -14,20 +14,41 @@
 <h3>Programming Languages</h3>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
-    <img alt="Programming Languages" src="https://i.icoziv.workers.dev/icons?i=pandas,numpy-light&t=light">
+    <img alt="Programming Languages" src="https://i.icoziv.workers.dev/icons?i=python,c,r,julia-light&t=light">
   </a>
+</p>
+
+<h3>Database</h3>
+<p align="left">
+  <a href="https://github.com/charlesakinnurun/">
+    <img alt="Database" src="https://i.icoziv.workers.dev/icons?i=postgresql,mysql,sqlalchemy,sqlite,-light&t=light">
+    </a>
 </p>
 
 <h3>Libraries</h3>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
-    <img alt="Libraries" src="https://i.icoziv.workers.dev/icons?i=pandas,numpy-light&t=light">
+    <img alt="Libraries" src="https://i.icoziv.workers.dev/icons?i=pandas,scikitlearn,numpy,seaborn,matplotlib,pytorch,tensorflow,keras,opencv,-light&t=light">
     </a>
 </p>
 
-
+<h3>IDE</h3>
 <p align="left">
-  <a href="https://siddhesh.cc/">
-    <img alt="My Skills" src="https://skillicons.dev/icons?i=python,anaconda,django,flask,fastapi,tensorflow,pytorch,sklearn,opencv,html,css,htmx,sass,bootstrap,tailwind,jquery,js,ts,vite,react,redux,materialui,nextjs,express,nodejs,bun,deno,php,laravel,go,c,cpp,cmake,java,spring,matlab,mysql,postgres,sqlite,mongodb,redis,aws,azure,cloudflare,vercel,nginx,firebase,supabase,git,github,githubactions,gitlab,docker,bash,powershell,neovim,latex,md,postman,linux">
-  </a>
+  <a href="https://github.com/charlesakinnurun/">
+    <img alt="IDE" src="https://i.icoziv.workers.dev/icons?i=vscode,pycharm,cursor,-light&t=light">
+    </a>
+</p>
+
+<h3>Spreadsheets</h3>
+<p align="left">
+  <a href="https://github.com/charlesakinnurun/">
+    <img alt="IDE" src="https://i.icoziv.workers.dev/icons?i=excel,google-sheets-light&t=light">
+    </a>
+</p>
+
+<h3>Version Control</h3>
+<p align="left">
+  <a href="https://github.com/charlesakinnurun/">
+    <img alt="Version Control" src="https://i.icoziv.workers.dev/icons?i=git,github,-light&t=light">
+    </a>
 </p>
