@@ -11,19 +11,89 @@
 > * I enjoy designing efficient data pipelines, developing high-performance ML models, and building automated analytical workflows that support real-time decision systems.
 > * I am always seeking opportunities to apply my skills in predictive analytics and algorithmic development to solve challenging problems in finance and tech.
 
+<!--<div>
+<div>
 <h3>Programming Languages</h3>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
     <img alt="Programming Languages" src="https://i.icoziv.workers.dev/icons?i=python,c,r,julia-light&t=light">
   </a>
 </p>
+</div>
 
-<h3>Database</h3>
+<div><h3>Database</h3>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
     <img alt="Database" src="https://i.icoziv.workers.dev/icons?i=postgresql,mysql,sqlalchemy,sqlite,-light&t=light">
     </a>
-</p>
+</p></div>
+</div>-->
+
+
+<!--<div style="text-align: center;">
+
+  <div>
+    <h3>Programming Languages</h3>
+    <p>
+      <a href="https://github.com/charlesakinnurun/">
+        <img alt="Programming Languages" src="https://i.icoziv.workers.dev/icons?i=python,c,r,julia-light&t=light">
+      </a>
+    </p>
+  </div>
+
+  <div>
+    <h3>Database</h3>
+    <p>
+      <a href="https://github.com/charlesakinnurun/">
+        <img alt="Database" src="https://i.icoziv.workers.dev/icons?i=postgresql,mysql,sqlalchemy,sqlite,-light&t=light">
+      </a>
+    </p>
+  </div>
+
+</div>-->
+
+
+
+
+
+
+
+
+
+
+
+<div style="display: flex; justify-content: center; gap: 40px; text-align: center;">
+
+  <div>
+    <h3>Programming Languages</h3>
+    <p>
+      <a href="https://github.com/charlesakinnurun/">
+        <img alt="Programming Languages" src="https://i.icoziv.workers.dev/icons?i=python,c,r,julia-light&t=light">
+      </a>
+    </p>
+  </div>
+
+  <div>
+    <h3>Database</h3>
+    <p>
+      <a href="https://github.com/charlesakinnurun/">
+        <img alt="Database" src="https://i.icoziv.workers.dev/icons?i=postgresql,mysql,sqlalchemy,sqlite,-light&t=light">
+      </a>
+    </p>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 <h3>Libraries</h3>
 <p align="left">
