@@ -14,34 +14,13 @@
 <h3>Programming Languages</h3>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
-    <img alt="Programming Languages" title="Python, R" src="https://skillicons.dev/icons?i=python,r">
+    <img alt="Programming Languages" src="https://skillicons.dev/icons?i=python,r">
   </a>
 </p>
 
-<style>
-  .skill-icons-light {
-    display: none;
-  }
-
-  @media (prefers-color-scheme: light) {
-    .skill-icons-light {
-      display: inline;
-    }
-    .skill-icons-dark {
-      display: none;
-    }
-  }
-</style>
-
+<h3>Libraries</h3>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
-    <img class="skill-icons-dark" src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,seaborn&theme=dark" height="40">
-    <img class="skill-icons-light" src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,seaborn&theme=light" height="40">
+    <img alt="Libraries" src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,seaborn">
   </a>
 </p>
-<!--<h3>Libraries</h3>
-<p align="left">
-  <a href="https://github.com/charlesakinnurun/">
-    <img alt="Libraries" title="scikit-learn, Pandas, NumPy, Matplotlib, Seaborn" src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,seaborn">
-  </a>
-</p>-->
