@@ -21,6 +21,6 @@
 <h3>Libraries</h3>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
-    <img alt=" Libraries" src="https://skillicons.dev/icons?i=scikit-learn,pandas,numpy,matplotlib,seaborn">
+    <img alt="Libraries" src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib,seaborn">
   </a>
 </p>
