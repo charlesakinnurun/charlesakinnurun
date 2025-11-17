@@ -2,7 +2,7 @@
 
 <!-- # [Charles Akinnurun](https://github.com/CharlesAkinnurun)-->
 
-<h1 align="center">Hi 👋, I'm Charles Akinnurun</h1>
+<h1 align="left">Hi 👋, I'm Charles Akinnurun</h1>
 
 <!--<p>A results-driven <b>Data Scientist</b> and <b>Machine Learning Engineer</b> with hands-on experience in analyzing complex datasets, building and deploying predictive models, and applying statistical algorithms to solve real-world problems. Skilled in end-to-end machine learning systems, including data collection, cleaning, feature engineering, model development, performance evaluation, and production deployment. Passionate about leveraging data to generate actionable insights and engineering intelligent, scalable, data-driven solutions.</p>-->
 <h2>About Me</h2>
