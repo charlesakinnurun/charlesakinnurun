@@ -4,28 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Charles Akinnurun</h1>
 
-
-
-<!--<h2 align="center">Data Scientist, Machine Learning Engineer, and Quant Dev passionate about building scalable, production-ready AI solutions.</h2>
-
-> * My greatest strength lies in combining data science, machine learning engineering, and quantitative analysis to transform complex data into actionable insights.
-> * I specialize in **end-to-end ML development**: from data collection, feature engineering, and model training (TensorFlow, PyTorch) to deployment and optimization on cloud platforms (AWS, GCP, Azure).
-> * I enjoy designing efficient data pipelines, developing high-performance ML models, and building automated analytical workflows that support real-time decision systems.
-> * I am always seeking opportunities to apply my skills in predictive analytics and algorithmic development to solve challenging problems in finance and tech.-->
-<!--<h1 align="left">Hi 👋, I'm Charles Akinnurun</h1>
-<ul>
-<li>A Passionate Data Scientist, Machine Learning Engineer, and Quant Dev</li>
-<li>Passionate about building machine learning systems to predict market movements and drive financial innovation.</li>
-<li>Skilled in time-series forecasting, classification, clustering, and sentiment analysis for predictive modeling
-<li>Currently delving into reinforcement learning and deep learning</li>
-</ul>-->
-
-
-
-<p>A results-driven Data Scientist with hands-on experience in analyzing complex datasets, building predictive models, and applying statistical algorithms to solve real-world problems. Skilled in end-to-end data science workflows, including data collection, cleaning, exploration, feature engineering, model development, and performance evaluation. Passionate about leveraging data to generate actionable insights, inform business decisions, and create intelligent, data-driven solutions.</p>
-
-
-
+<p>A results-driven <b>Data Scientist</b> and <b>Machine Learning Engineer</b> with hands-on experience in analyzing complex datasets, building and deploying predictive models, and applying statistical algorithms to solve real-world problems. Skilled in end-to-end machine learning systems, including data collection, cleaning, feature engineering, model development, performance evaluation, and production deployment. Passionate about leveraging data to generate actionable insights and engineering intelligent, scalable, data-driven solutions.</p>
 
 
 
