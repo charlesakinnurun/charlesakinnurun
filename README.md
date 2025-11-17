@@ -22,7 +22,7 @@
 
 
 
-<p>I am a results-driven Data Scientist / Machine Learning Engineer / Quant Dev with hands-on experience building machine learning models, statistical algorithms, quantitative systems, and scalable AI solutions. I specialize in end-to-end ML development—data collection, feature engineering, model training, deployment, and optimization—using modern tools and cloud platforms.</p>
+<p>A results-driven Data Scientist / Machine Learning Engineer / Quant Dev with hands-on experience building machine learning models, statistical algorithms, quantitative systems, and scalable ML solutions. I specialize in end-to-end ML development—data collection, feature engineering, model training, deployment, and optimization.</p>
 
 
 
