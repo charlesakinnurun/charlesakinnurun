@@ -1,6 +1,7 @@
-<!-- <h1 align="center">Hi 👋, I'm Charles Akinnurun</h1>-->
 
-<!-- # [Charles Akinnurun](https://github.com/CharlesAkinnurun)-->
+<!--
+
+
 
 <h1 align="center">Hi 👋, I'm Charles Akinnurun</h1>
 
@@ -80,4 +81,14 @@
   <a href="https://github.com/charlesakinnurun/">
     <img alt="cloud services" src="https://i.icoziv.workers.dev/icons?i=amazonwebservices-light,azure,googlecloud,-light&t=light" width=120>
     </a>
-</p>
+</p>-->
+
+
+### Tech Stack:
+<!--<p align="center">
+  <a href="https://github.com/charlesakinnurun">
+    <img alt="My Skills" src="https://skillicons.dev/icons?i=python,anaconda,django,flask,fastapi,tensorflow,pytorch,sklearn,opencv,html,css,htmx,sass,bootstrap,tailwind,jquery,js,ts,vite,react,redux,materialui,nextjs,express,nodejs,bun,deno,php,laravel,go,c,cpp,cmake,java,spring,matlab,mysql,postgres,sqlite,mongodb,redis,aws,azure,cloudflare,vercel,nginx,firebase,supabase,git,github,githubactions,gitlab,docker,bash,powershell,neovim,latex,md,postman,linux">
+  </a>
+</p>-->
+<a href="https://github.com/charlesakinnurun" title="Python"><img src="https://i.icoziv.workers.dev/icons?i=python-dark&t=light" alt="Python"></a>
+<a href="https://github.com/charlesakinnurun" title="R"><img src="https://i.icoziv.workers.dev/icons?i=r-dark&t=dark" alt="R"></a>
