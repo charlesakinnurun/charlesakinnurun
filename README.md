@@ -34,7 +34,7 @@
 </div>
 
 <div>
-  <h4>Database</h4>
+  <h4>Databases</h4>
   <p align="left">
     <a href="https://github.com/charlesakinnurun/">
       <img alt="Database" src="https://i.icoziv.workers.dev/icons?i=postgresql,mysql,sqlalchemy,sqlite,-light&t=light" width=160>
