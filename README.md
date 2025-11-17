@@ -12,7 +12,7 @@
   <li>🧠 Skilled in developing, training, and deploying predictive models using advanced statistical and machine learning algorithms.</li>
   <li>🔧 Experienced in end-to-end ML workflows — data collection, cleaning, feature engineering, model development, and performance evaluation.</li>
   <li>🛠️ Proficient in deploying scalable ML systems and integrating models into production environments.</li>
-  <li>📊 Passionate about turning data into actionable insights and engineering intelligent, scalable, data-driven solutions.
+  <li>📊 Passionate about turning data into actionable insights and building intelligent, scalable, data-driven solutions.
   </li>
   <li>🎓 Currently studying Computer Science, continuously expanding knowledge in algorithms and complexity analysis, data structures, operating system, database management and programming.</li>
 </ul>
