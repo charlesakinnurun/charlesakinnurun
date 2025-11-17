@@ -22,7 +22,7 @@
 
 
 
-<p>A results-driven Data Scientist and Machine Learning Engineer, with hands-on experience in building predictive models, statistical algorithms, and scalable ML systems. Skilled in end-to-end machine learning workflows, including data collection, feature engineering, model development, deployment, and performance optimization. Passionate about leveraging data and machine learning algorithms to drive actionable insights, improve business outcomes, and create intelligent, data-driven solutions.</p>
+<p>A results-driven Data Scientist with hands-on experience in analyzing complex datasets, building predictive models, and applying statistical algorithms to solve real-world problems. Skilled in end-to-end data science workflows, including data collection, cleaning, exploration, feature engineering, model development, and performance evaluation. Passionate about leveraging data to generate actionable insights, inform business decisions, and create intelligent, data-driven solutions.</p>
 
 
 
