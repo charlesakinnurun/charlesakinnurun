@@ -104,7 +104,6 @@
 <a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=numpy-dark" alt="Icoziv-icons"></a>
 <a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=seaborn" alt="Icoziv-icons"></a>
 <a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=matplotlib-dark" alt="Icoziv-icons"></a>
-<a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://www.statsmodels.org/stable/_static/statsmodels-logo-v2-bw.svg" alt="Icoziv-icons" width=40></a>
 <a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=scipy" alt="Icoziv-icons"></a>
 <a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=git-dark" alt="Icoziv-icons"></a>
 <a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=gitbash" alt="Icoziv-icons"></a>
