@@ -25,7 +25,7 @@
 <h2>Tech Stack</h2>
 
 <div>
-  <h3>Programming Languages</h3>
+  <h4>Programming Languages</h4>
   <p align="left">
     <a href="https://github.com/charlesakinnurun/">
       <img alt="Programming Languages" src="https://i.icoziv.workers.dev/icons?i=python,c,r,julia-light&t=light" width=160>
@@ -34,7 +34,7 @@
 </div>
 
 <div>
-  <h3>Database</h3>
+  <h4>Database</h4>
   <p align="left">
     <a href="https://github.com/charlesakinnurun/">
       <img alt="Database" src="https://i.icoziv.workers.dev/icons?i=postgresql,mysql,sqlalchemy,sqlite,-light&t=light" width=160>
@@ -45,35 +45,35 @@
 
 
 
-<h3>Libraries</h3>
+<h4>Libraries</h4>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
     <img alt="Libraries" src="https://i.icoziv.workers.dev/icons?i=pandas,scikitlearn,numpy,seaborn,matplotlib,scipy,pytorch,tensorflow,keras,opencv,-light&t=light" width=400>
     </a>
 </p>
 
-<h3>Version Control</h3>
+<h4>Version Control</h4>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
     <img alt="Version Control" src="https://i.icoziv.workers.dev/icons?i=git,github,-light&t=light"width=80>
     </a>
 </p>
 
-<h3>IDE and Environments</h3>
+<h4>IDE and Environments</h4>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
     <img alt="IDE" src="https://i.icoziv.workers.dev/icons?i=vscode,anaconda,pycharm,cursor,jupyter,jupiter-dark,spyder,googlecolab,-light&t=light"width=320>
     </a>
 </p>
 
-<h3>Markup Languages and Style Sheets</h3>
+<h4>Markup Languages and Style Sheets</h4>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
     <img alt="markup languages" src="https://i.icoziv.workers.dev/icons?i=html,markdown,css,-light&t=light" width=120>
     </a>
 </p>
 
-<h3>Spreadsheets and BI tools</h3>
+<h4>Spreadsheets and BI tools</h4>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
     <img alt="spreadsheets" src="https://i.icoziv.workers.dev/icons?i=excel,powerbi,-light&t=light" width=80>
@@ -84,7 +84,7 @@
 
 
 
-<h3>Cloud Services</h3>
+<h4>Cloud Services</h4>
 <p align="left">
   <a href="https://github.com/charlesakinnurun/">
     <img alt="cloud services" src="https://i.icoziv.workers.dev/icons?i=amazonwebservices-light,azure,googlecloud,-light&t=light" width=120>
