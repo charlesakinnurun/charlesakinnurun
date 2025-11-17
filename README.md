@@ -22,7 +22,7 @@
 
 
 
-<p>Results-driven Data Scientist, Machine Learning Engineer, and Quant Developer with hands-on experience in building predictive models, statistical algorithms, and scalable ML systems. Skilled in end-to-end machine learning workflows, including data collection, feature engineering, model development, deployment, and performance optimization. Passionate about leveraging data and machine learning algorithms to drive actionable insights, improve business outcomes, and create intelligent, data-driven solutions.</p>
+<p>A results-driven Data Scientist, Machine Learning Engineer, and Quant Dev with hands-on experience in building predictive models, statistical algorithms, and scalable ML systems. Skilled in end-to-end machine learning workflows, including data collection, feature engineering, model development, deployment, and performance optimization. Passionate about leveraging data and machine learning algorithms to drive actionable insights, improve business outcomes, and create intelligent, data-driven solutions.</p>
 
 
 
