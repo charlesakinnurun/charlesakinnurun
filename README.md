@@ -8,7 +8,7 @@
 <!--<p>A results-driven <b>Data Scientist</b> and <b>Machine Learning Engineer</b> with hands-on experience in analyzing complex datasets, building and deploying predictive models, and applying statistical algorithms to solve real-world problems. Skilled in end-to-end machine learning systems, including data collection, cleaning, feature engineering, model development, performance evaluation, and production deployment. Passionate about leveraging data to generate actionable insights and engineering intelligent, scalable, data-driven solutions.</p>-->
 <!--<h2 align="center">About Me</h2>-->
 
-<ul>
+<!-- <ul>
   <li>🚀 Results-driven Data Scientist & Machine Learning Engineer with strong experience analyzing complex datasets and building real-world ML solutions.</li>
   <li>🧠 Skilled in developing, training, and deploying predictive models using advanced statistical and machine learning algorithms.</li>
   <li>🔧 Experienced in end-to-end ML workflows — data collection, cleaning, feature engineering, model development, and performance evaluation.</li>
@@ -90,4 +90,4 @@
   <a href="https://github.com/charlesakinnurun/">
     <img alt="cloud services" src="https://i.icoziv.workers.dev/icons?i=amazonwebservices-light,azure,googlecloud,-light&t=light" width=120>
     </a>
-</p>
+</p>-->
