@@ -26,5 +26,5 @@
 <a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=markdown-dark" alt="Icoziv-icons"></a>
 <a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=excel-dark" alt="Icoziv-icons"></a>
 <a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=powerbi" alt="Icoziv-icons"></a>   
-<a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://companieslogo.com/img/orig/yahoo-finance-e577cb16.png?t=1720244494" alt="Icoziv-icons" width=50
+<a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://companieslogo.com/img/orig/yahoo-finance-e577cb16.png?t=1720244494" alt="Icoziv-icons" width=48
 ></a>
