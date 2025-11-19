@@ -4,7 +4,7 @@
 <img src="https://i.icoziv.workers.dev/icons?i=julia-dark&t=dark" alt="Julia" title="Julia">
 <img src="001-database(1).png" alt="SQL" width="48" title="SQL">
 <img src="https://i.icoziv.workers.dev/icons?i=postgresql-dark" alt="Postgresql" title="Postgresql">
-<img src="https://i.icoziv.workers.dev/icons?i=mysql-dark" alt="MySQL" title="MySQl">
+<img src="https://i.icoziv.workers.dev/icons?i=mysql-dark" alt="MySQL" title="MySQL">
 <img src="https://i.icoziv.workers.dev/icons?i=pandas-dark" alt="Pandas" title="Pandas">
 <img src="https://i.icoziv.workers.dev/icons?i=scikitlearn-dark" alt="Scikit-learn" title="Scikit-learn">
 <img src="https://i.icoziv.workers.dev/icons?i=numpy-dark" alt="Numpy" title="Numpy">
