@@ -58,34 +58,34 @@
       <br>Julia
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="001-database(1).png" alt="icon" width="65" height="65" />
+      <br>SQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
+        <img src="https://i.icoziv.workers.dev/icons?i=postgresql-dark" alt="icon" width="65" height="65" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://i.icoziv.workers.dev/icons?i=mysql-dark" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
+        <img src="https://i.icoziv.workers.dev/icons?i=sqlite" alt="icon" width="65" height="65" />
+      <br>Sqlite
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+        <img src="https://i.icoziv.workers.dev/icons?i=scikitlearn-dark" alt="icon" width="65" height="65" />
+      <br>Scikit-learn
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+        <img src="https://i.icoziv.workers.dev/icons?i=pandas-dark" alt="icon" width="65" height="65" />
+      <br>Pandas
     </td>
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+        <img src="https://i.icoziv.workers.dev/icons?i=numpy-dark" alt="icon" width="65" height="65" />
+      <br>NumPy
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
