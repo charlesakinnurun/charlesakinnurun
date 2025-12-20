@@ -112,12 +112,12 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://i.icoziv.workers.dev/icons?i=pypi" width="48" height="48" alt="css" />
-      <br>PyPi
+        <img src="https://i.icoziv.workers.dev/icons?i=github-dark" width="48" height="48" alt="css" />
+      <br>GitHub
     </td>
     <td align="center"  width="96">
-        <img src="https://i.icoziv.workers.dev/icons?i=github-dark" width="48" height="48" alt="bootstrap" />
-      <br>GitHub
+        <img src="https://i.icoziv.workers.dev/icons?i=pypi" width="48" height="48" alt="bootstrap" />
+      <br>PyPi
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
