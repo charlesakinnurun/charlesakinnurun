@@ -1,3 +1,12 @@
+![Chat](/chat.svg)
+
+
+
+
+
+
+
+
 <!--
 
 <img src="header.png" alt="header" width="100%">
@@ -103,8 +112,8 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://i.icoziv.workers.dev/icons?i=gitbash" width="48" height="48" alt="css" />
-      <br>Git Bash
+        <img src="https://i.icoziv.workers.dev/icons?i=pypi" width="48" height="48" alt="css" />
+      <br>PyPi
     </td>
     <td align="center"  width="96">
         <img src="https://i.icoziv.workers.dev/icons?i=github-dark" width="48" height="48" alt="bootstrap" />
@@ -175,4 +184,4 @@
 
 
 
-[![](https://github.com/charlesakinnurun/charlesakinnurun/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
+
