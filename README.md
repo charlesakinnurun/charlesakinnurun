@@ -39,12 +39,12 @@
 
 
 
-# 💻 My favorite tools and technologies
+# 💻 Tech Stacks
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://i.icoziv.workers.dev/https://raw.githubusercontent.com/thuongtruong109/icoziv/main/icons?i=python-dark" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
