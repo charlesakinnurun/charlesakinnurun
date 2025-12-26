@@ -1,4 +1,4 @@
-![Chat](/chat.svg)
+<!--   ![Chat](/chat.svg)
 
 
 
@@ -46,7 +46,7 @@
 
 
 
-
+<!--
 
 # 💻 Technology Stack
 <div style="display: flex; align-items: flex-start; align: center">
@@ -213,7 +213,7 @@
 
 </div>
 
-
+-->
 
 
 
