@@ -46,9 +46,18 @@
 
 
 
-<!--
 
-# 💻 Technology Stack
+
+
+
+
+
+![header](/header2.png)
+
+
+
+
+## 💻 Languages, Libraries and dev tools
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -212,16 +221,4 @@
 
 
 </div>
-
--->
-
-
-
-
-
-
-
-![header](/header2.png)
-
-
 
