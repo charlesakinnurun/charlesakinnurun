@@ -54,6 +54,38 @@
 
 <!--![header](/header2.png)-->
 
+<!--## Hi there, I'm Charles Akinnurun  👋
+
+<p align="center">
+  <a href="https://chshersh.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
+  <a href="https://youtube.com/c/chshersh" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://x.com/intent/follow?screen_name=chshersh&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/extwitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/charlesakinnurun/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>-->
+
+
+
+
+
+# 💫 About Me:
+🔭 I’m currently working on: Developing and evaluating supervised classification and regression models for financial market prediction (like my Blackstone and Audi stock projects).<br><br>👯 I’m looking to collaborate on: Open-source Data Science projects, particularly those involving Computer Vision or NLP for social good.<br><br>🤝 I’m looking for help with: Advanced MLOps practices and scaling deep learning models in production environments.<br><br>🌱 I’m currently learning: Advanced Reinforcement Learning and sharpening my skills in Cloud deployment (AWS/GCP).<br><br>💬 Ask me about: Python, Machine Learning workflows, SQL database management, and how to turn raw data into actionable insights.<br><br>⚡ Fun fact: I believe that data tells a story; I just use Python and R to act as the translator!
+
+
+<!--## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/charlesakinnurun) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/akinnurun5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charlesakinnurun@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=charlesakinnurun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=charlesakinnurun&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesakinnurun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=charlesakinnurun&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
 
 
