@@ -90,7 +90,7 @@
 
 
 
-## 💻 Languages, Libraries and Dev tools
+## 💻 Languages, Libraries and Development tools
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
