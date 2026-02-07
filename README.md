@@ -286,9 +286,9 @@
 Hi — I’m **Charles Akinnurun**, currently working as a **Data Scientist (VIRTUAL EXPERIENCE) at British Airways**.  
 
 
-<!-- As a Data Scientist and AI/ML Engineer, I specialize in data science, machine learning, deep learning, natural language processing, and computer vision, with a proven record of building scalable, production-ready AI systems that deliver quantifiable business and technical impact.
+<!--As a Data Scientist and AI/ML Engineer, I specialize in data science, machine learning, deep learning, natural language processing, and computer vision, with a proven record of building scalable, production-ready AI systems that deliver quantifiable business and technical impact.
 
-I have led and executed the end-to-end machine learning lifecycle across 140+ ML projects, spanning data collection, preprocessing, feature engineering, EDA, model development, evaluation, deployment, monitoring, and optimization. Through systematic experimentation and tuning, I improved model performance by ;18–45%, reduced error rates by 25–40%, and increased model stability across multiple deployment environments.
+I have led and executed the end-to-end machine learning lifecycle across 140+ ML projects, spanning data collection, preprocessing, feature engineering, EDA, model development, evaluation, deployment, monitoring, and optimization. Through systematic experimentation and tuning, I improved model performance by <b>18–45%</b>, reduced error rates by 25–40%, and increased model stability across multiple deployment environments.
 
 My work includes classification, regression, clustering, association rule mining, dimensionality reduction, time-series forecasting, and real-time inference systems, supporting use cases such as prediction, recommendation, anomaly detection, and automation. I have built 10+ real-time and batch inference pipelines, achieving 99%+ uptime and reducing prediction latency by 35–55% through optimized architectures and model compression techniques.
 
@@ -298,19 +298,32 @@ Technically, I work extensively with Python, SQL, Pandas, NumPy, Scikit-learn, P
 
 In addition to hands-on development, I actively contribute to open-source projects, collaborate with cross-functional teams (engineering, product, analytics) across 25+ projects, and conduct continuous research on emerging trends in machine learning, deep learning, NLP, and computer vision, regularly shipping prototypes and proof-of-concepts to production-ready systems. -->
 
-As a Data Scientist and AI/ML Engineer, I specialize in data science, machine learning, deep learning, natural language processing (NLP), and computer vision, with a proven record of building scalable, production-ready AI systems that deliver quantifiable business and technical impact.
 
-I have led and executed the end-to-end machine learning lifecycle across 140+ ML projects, spanning data collection, preprocessing, feature engineering, exploratory data analysis (EDA), model development, evaluation, deployment, monitoring, and optimization using Python (Pandas, NumPy), SQL, R, and Scikit-learn. Through systematic experimentation and hyperparameter tuning with XGBoost, LightGBM, CatBoost, PyTorch, TensorFlow, and Keras, I improved model performance by 18–45%, reduced error rates by 25–40%, and increased model stability across multiple deployment environments.
 
-My work includes classification, regression, clustering, association rule mining, dimensionality reduction, time-series forecasting, and real-time inference systems, supporting use cases such as prediction, recommendation, anomaly detection, and automation. I have built 10+ real-time and batch inference pipelines using Apache Spark, Airflow, Prefect, Kafka, and cloud platforms (AWS SageMaker, GCP AI Platform, Azure ML), achieving 99%+ uptime and reducing prediction latency by 35–55% through optimized architectures and model compression techniques.
 
-I bring a strong foundation in computer science, applied mathematics, statistics, probability, algorithms, and data structures, enabling me to design robust, efficient, and interpretable models at scale. I have optimized data pipelines handling 500K–10M+ records, cutting processing time by 30–60% and memory usage by 25–40%, leveraging Python, Spark, SQL, and cloud-based storage solutions (AWS S3, GCP BigQuery).
 
-For deep learning, NLP, and computer vision tasks, I regularly use Hugging Face Transformers, SpaCy, NLTK, OpenCV, YOLO, and Detectron2 to build advanced models, while Matplotlib, Seaborn, Plotly, and Tableau help me visualize insights for stakeholders. I also manage version control, experiment tracking, and reproducibility through Git, MLflow, Weights & Biases, and DVC, and deploy production systems with Docker, Kubernetes, and REST APIs.
 
-I have implemented automated retraining workflows, established monitoring systems that detect data drift and performance degradation within <24 hours, and optimized pipelines for scalability and efficiency.
 
-In addition to hands-on development, I actively contribute to open-source projects, collaborate with cross-functional teams (engineering, product, analytics) across 25+ projects, and conduct continuous research on emerging trends in ML, DL, NLP, and computer vision, regularly shipping prototypes and proof-of-concepts to production-ready systems.
+
+
+
+
+
+
+
+As a Data Scientist and AI/ML Engineer, I specialize in **data science, machine learning, deep learning, natural language processing (NLP), and computer vision**, with a proven record of building scalable, production-ready AI systems that deliver quantifiable business and technical impact.
+
+I have led and executed the end-to-end machine learning lifecycle across **140+ ML projects**, spanning **data collection, preprocessing, feature engineering, exploratory data analysis (EDA), model development, evaluation, deployment, monitoring, and optimization** using **Python (Pandas, NumPy), SQL, R, and Scikit-learn**. Through systematic experimentation and hyperparameter tuning with **XGBoost, LightGBM, CatBoost, PyTorch, TensorFlow, and Keras**, I improved model performance by **18–45%**, reduced error rates by **25–40%**, and increased model stability across multiple deployment environments.
+
+My work includes **classification, regression, clustering, association rule mining, dimensionality reduction, time-series forecasting, and real-time inference systems**, supporting use cases such as **prediction, recommendation, anomaly detection, and automation**. I have built **10+ real-time** and batch inference pipelines using Apache Spark, Airflow, Prefect, Kafka, and cloud platforms **(AWS SageMaker, GCP AI Platform, Azure ML)**, achieving **99%+ uptime** and reducing prediction **latency by 35–55%** through optimized architectures and model compression techniques.
+
+I bring a strong foundation in computer science, applied mathematics, statistics, probability, algorithms, and data structures, enabling me to design robust, efficient, and interpretable models at scale. I have **optimized data pipelines handling 500K–10M+ records**, **cutting processing time by 30–60%** and memory usage by **25–40%**, leveraging **Python, Spark, SQL**, and cloud-based storage solutions **(AWS S3, GCP BigQuery).**
+
+For deep learning, NLP, and computer vision tasks, I regularly use **Hugging Face Transformers, SpaCy, NLTK, OpenCV, YOLO, and Detectron2** to build advanced models, while **Matplotlib, Seaborn, Plotly, and Tableau** help me visualize insights for stakeholders. I also manage version control, experiment tracking, and reproducibility **through Git, MLflow, Weights & Biases, and DVC**, and deploy production systems with **Docker, Kubernetes, and REST APIs.**
+
+I have implemented automated retraining workflows, established monitoring systems that detect data drift and **performance degradation within <24 hours**, and optimized pipelines for scalability and efficiency.
+
+In addition to hands-on development, I actively contribute to open-source projects, collaborate with cross-functional teams (engineering, product, analytics) **across 25+ projects**, and conduct continuous **research on emerging trends in ML, DL, NLP, and computer vision,** regularly shipping prototypes and proof-of-concepts to production-ready systems.
 
 
 <!--Right now, I’m working toward:
