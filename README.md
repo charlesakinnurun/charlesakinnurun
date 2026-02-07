@@ -315,9 +315,9 @@ As a Data Scientist and AI/ML Engineer, I specialize in **data science, machine 
 
 I have led and executed the end-to-end machine learning lifecycle across **140+ ML projects**, spanning **data collection, preprocessing, feature engineering, exploratory data analysis (EDA), model development, evaluation, deployment, monitoring, and optimization** using **Python (Pandas, NumPy), SQL, R, and Scikit-learn**. Through systematic experimentation and hyperparameter tuning with **XGBoost, LightGBM, CatBoost, PyTorch, TensorFlow, and Keras**, I improved model performance by **18–45%**, reduced error rates by **25–40%**, and increased model stability across multiple deployment environments.
 
-My work includes **classification, regression, clustering, association rule mining, dimensionality reduction, time-series forecasting, and real-time inference systems**, supporting use cases such as **prediction, recommendation, anomaly detection, and automation**. I have built **10+ real-time** and batch inference pipelines using Apache Spark, Airflow, Prefect, Kafka, and cloud platforms **(AWS SageMaker, GCP AI Platform, Azure ML)**, achieving **99%+ uptime** and reducing prediction **latency by 35–55%** through optimized architectures and model compression techniques.
+My work includes **classification, regression, clustering, association rule mining, dimensionality reduction, time-series forecasting, and real-time inference systems**, supporting use cases such as **prediction, recommendation, anomaly detection, and automation**. I have **built 10+ real-time** and batch inference pipelines using Apache Spark, Airflow, Prefect, Kafka, and cloud platforms **(AWS SageMaker, GCP AI Platform, Azure ML)**, achieving **99%+ uptime** and reducing prediction **latency by 35–55%** through optimized architectures and model compression techniques.
 
-I bring a strong foundation in computer science, applied mathematics, statistics, probability, algorithms, and data structures, enabling me to design robust, efficient, and interpretable models at scale. I have **optimized data pipelines handling 500K–10M+ records**, **cutting processing time by 30–60%** and memory usage by **25–40%**, leveraging **Python, Spark, SQL**, and cloud-based storage solutions **(AWS S3, GCP BigQuery).**
+I bring a strong foundation in **computer science, applied mathematics, statistics, probability, algorithms, and data structures**, enabling me to design robust, efficient, and interpretable models at scale. I have **optimized data pipelines handling 500K–10M+ records**, **cutting processing time by 30–60%** and memory usage by **25–40%**, leveraging **Python, Spark, SQL**, and cloud-based storage solutions **(AWS S3, GCP BigQuery).**
 
 For deep learning, NLP, and computer vision tasks, I regularly use **Hugging Face Transformers, SpaCy, NLTK, OpenCV, YOLO, and Detectron2** to build advanced models, while **Matplotlib, Seaborn, Plotly, and Tableau** help me visualize insights for stakeholders. I also manage version control, experiment tracking, and reproducibility **through Git, MLflow, Weights & Biases, and DVC**, and deploy production systems with **Docker, Kubernetes, and REST APIs.**
 
@@ -336,19 +336,19 @@ In addition to hands-on development, I actively contribute to open-source projec
 
 ## 🔥 What I Do
 
-- 🌐 **Data Science** — Data Preprocessing, Feature Engineering, Model Developement and Evaluation 
-- 🔁 **Machine Learning** — Supervised, Unsupervised, Semi-supervised, Reinforcement and Deep Learning
-- 🎨 **Artificial Intelligence** — Machine Learning, NLP, Computer Vision, Robotics, Expert Systems and Fuzzy Logic 
-- ✍️ **Computer Science** — Data Structures and Algorthms, Operating Systems, Database Management and Programming
-- ⚡ **Natural Language Processing** — Text Preprocessing / Classification, NER, POS, Language Modelling and Machine Translation
-- 💚 **Large Language Models** — Sentinment Analysis, Code Generation, Text Generation and Completion
-- 🚫 **MLOps** — Versioning, Deployment, Automation CI/CD, Governance and Compliance
-- ❌ **Computer Vision** — Image Classification, Object Detection, Facial Recognition, OCR and Object Detection
-- ☀️ **Open Source Contributions** Maintaining Repositories, Bug Fixes, Documentation Improvements, Reviewing Pull Requests and Code Refactoring
+- 🌐 **Data Science** — *Data Preprocessing, Feature Engineering, Model Developement and Evaluation* 
+- 🔁 **Machine Learning** — *Supervised, Unsupervised, Semi-supervised, Reinforcement and Deep Learning*
+- 🎨 **Artificial Intelligence** — *Machine Learning, NLP, Computer Vision, Robotics, Expert Systems and Fuzzy Logic* 
+- ✍️ **Computer Science** — *Data Structures and Algorthms, Operating Systems, Database Management and Programming*
+- ⚡ **Natural Language Processing** — *Text Preprocessing / Classification, NER, POS, Language Modelling and Machine Translation*
+- 💚 **Large Language Models** — *Sentinment Analysis, Code Generation, Text Generation and Completion*
+- 🚫 **MLOps** — *Versioning, Deployment, Automation CI/CD, Governance and Compliance*
+- ❌ **Computer Vision** — *Image Classification, Object Detection, Facial Recognition, OCR and Object Detection*
+- ☀️ **Open Source Contributions** — *Maintaining Repositories, Bug Fixes, Documentation Improvements, Reviewing Pull Requests and Code Refactoring*
 
 ---
 
-## 💻 Tech Stack
+<!-- ## 💻 Tech Stack
 
 ```ts
 Languages:      Python, SQL, R, , HTML, Julia
@@ -359,7 +359,7 @@ Databases:      MySQL, PostgreSQL, Sqlite
 Cloud:          AWS, GCP, Azure
 Dev Tools:      Git, Jupyter Notebook, GitHub, Docker (learning), Vscode, Anaconda, Google Colab,
 ```
-
+-->
 
 
 <!-- ## 🎯 Professional Goals
