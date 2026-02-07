@@ -277,10 +277,10 @@
 
 <p align="center">
   <b>Data Scientist • AI/ML Enginneer • Computer Science • NLP • LLMs • MLOps • Computer Vison • Open Source Contributor</b><br>
-  Building predictive models that drives real world impact.
+  <!--Building predictive models that drives real world impact.-->
 </p>
 
----
+
 
 ## 🧠 About Me
 Hi — I’m **Charles Akinnurun**, currently working as a **Data Scientist (VIRTUAL EXPERIENCE) at British Airways**.  
@@ -338,7 +338,7 @@ In addition to hands-on development, I actively contribute to open-source projec
 ## 💻 Tech Stack
 
 ```ts
-Languages:      Python, SQL, R, , HTML, Julia, Visual Basic, FORTRAN
+Languages:      Python, SQL, R, , HTML, Julia
 Libraries:      Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, Numpy, Seaborn, Matplotlib
                 Y-Finance, SciPy, Streamlit, Beautiful Soup, SQLAlchemy, OpenCV, OpenNLP, NLTK,
                 Pytest, Scrapy 
@@ -346,15 +346,15 @@ Databases:      MySQL, PostgreSQL, Sqlite
 Cloud:          AWS, GCP, Azure
 Dev Tools:      Git, Jupyter Notebook, GitHub, Docker (learning), Vscode, Anaconda, Google Colab,
 ```
----
 
 
-## 🎯 Professional Goals
+
+<!-- ## 🎯 Professional Goals
 
 - 💼 **Career Goal:** Become a strong Data Scientist and AI/ML Engineer
 - 📚 **Continuous Learning:** Improve DSA, Databases, Algorithm and Complexity Analysis, and Machine learning Skills  
-- 🌍 **Community:** Share knowledge through linkedin post and GitHub projects  
+- 🌍 **Community:** Share knowledge through linkedin post and GitHub projects  -->
 
----
+
 
 <p align="center"><em>“Code. Learn. Build. Repeat.”</em></p>
