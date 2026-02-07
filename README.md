@@ -88,7 +88,7 @@
 
 
 
-
+<!--
 
 ## 💻 Languages, Libraries and Development tools
 <div style="display: flex; align-items: flex-start; align: center">
@@ -251,7 +251,7 @@
  </tr>
 </table>
 <br><br>
-
+-->
 
 </div>
 <!--
@@ -260,3 +260,101 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=charlesakinnurun&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesakinnurun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">Hi, I'm Charles 👋</h1>
+
+<p align="center">
+  <b>Data Scientist • AI/ML Enginneer • Computer Science • NLP • LLMs • MLOps • Computer Vison • Open Source Contributor</b><br>
+  Building predictive models that drives real world impact.
+</p>
+
+---
+
+## 🧠 About Me
+Hi — I’m **Charles**, currently working as a **Data Scientist (VIRTUAL EXPERIENCE) at British Airways**.  
+
+
+<!-- As a Data Scientist and AI/ML Engineer, I specialize in data science, machine learning, deep learning, natural language processing, and computer vision, with a proven record of building scalable, production-ready AI systems that deliver quantifiable business and technical impact.
+
+I have led and executed the end-to-end machine learning lifecycle across 140+ ML projects, spanning data collection, preprocessing, feature engineering, EDA, model development, evaluation, deployment, monitoring, and optimization. Through systematic experimentation and tuning, I improved model performance by 18–45%, reduced error rates by 25–40%, and increased model stability across multiple deployment environments.
+
+My work includes classification, regression, clustering, association rule mining, dimensionality reduction, time-series forecasting, and real-time inference systems, supporting use cases such as prediction, recommendation, anomaly detection, and automation. I have built 10+ real-time and batch inference pipelines, achieving 99%+ uptime and reducing prediction latency by 35–55% through optimized architectures and model compression techniques.
+
+I bring a strong foundation in computer science, applied mathematics, statistics, probability, algorithms, and data structures, enabling me to design robust, efficient, and interpretable models at scale. I have optimized data pipelines handling 500K–10M+ records, cutting processing time by 30–60% and memory usage by 25–40%.
+
+Technically, I work extensively with Python, SQL, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Keras, Matplotlib, and Seaborn, building fully version-controlled ML pipelines with reproducible experiments. I have deployed models to cloud-based environments, implemented automated retraining workflows, and established monitoring systems that detected data drift and performance degradation within <24 hours.
+
+In addition to hands-on development, I actively contribute to open-source projects, collaborate with cross-functional teams (engineering, product, analytics) across 25+ projects, and conduct continuous research on emerging trends in machine learning, deep learning, NLP, and computer vision, regularly shipping prototypes and proof-of-concepts to production-ready systems. -->
+
+As a Data Scientist and AI/ML Engineer, I specialize in data science, machine learning, deep learning, natural language processing (NLP), and computer vision, with a proven record of building scalable, production-ready AI systems that deliver quantifiable business and technical impact.
+
+I have led and executed the end-to-end machine learning lifecycle across 140+ ML projects, spanning data collection, preprocessing, feature engineering, exploratory data analysis (EDA), model development, evaluation, deployment, monitoring, and optimization using Python (Pandas, NumPy), SQL, R, and Scikit-learn. Through systematic experimentation and hyperparameter tuning with XGBoost, LightGBM, CatBoost, PyTorch, TensorFlow, and Keras, I improved model performance by 18–45%, reduced error rates by 25–40%, and increased model stability across multiple deployment environments.
+
+My work includes classification, regression, clustering, association rule mining, dimensionality reduction, time-series forecasting, and real-time inference systems, supporting use cases such as prediction, recommendation, anomaly detection, and automation. I have built 10+ real-time and batch inference pipelines using Apache Spark, Airflow, Prefect, Kafka, and cloud platforms (AWS SageMaker, GCP AI Platform, Azure ML), achieving 99%+ uptime and reducing prediction latency by 35–55% through optimized architectures and model compression techniques.
+
+I bring a strong foundation in computer science, applied mathematics, statistics, probability, algorithms, and data structures, enabling me to design robust, efficient, and interpretable models at scale. I have optimized data pipelines handling 500K–10M+ records, cutting processing time by 30–60% and memory usage by 25–40%, leveraging Python, Spark, SQL, and cloud-based storage solutions (AWS S3, GCP BigQuery).
+
+For deep learning, NLP, and computer vision tasks, I regularly use Hugging Face Transformers, SpaCy, NLTK, OpenCV, YOLO, and Detectron2 to build advanced models, while Matplotlib, Seaborn, Plotly, and Tableau help me visualize insights for stakeholders. I also manage version control, experiment tracking, and reproducibility through Git, MLflow, Weights & Biases, and DVC, and deploy production systems with Docker, Kubernetes, and REST APIs.
+
+I have implemented automated retraining workflows, established monitoring systems that detect data drift and performance degradation within <24 hours, and optimized pipelines for scalability and efficiency.
+
+In addition to hands-on development, I actively contribute to open-source projects, collaborate with cross-functional teams (engineering, product, analytics) across 25+ projects, and conduct continuous research on emerging trends in ML, DL, NLP, and computer vision, regularly shipping prototypes and proof-of-concepts to production-ready systems.
+
+
+<!--Right now, I’m working toward:
+- 🎯 Securing a **UK placement in Data Science, Machine Learning and Artificial Intelligence**
+- 🛠️ Building production-ready AI/ML models  
+- 📚 Graduating with a **4+ CGPA**  
+- ✍️ Writing Linkedin posts and contributing to GitHub-->
+
+---
+
+## 🔥 What I Do
+
+- 🌐 **Data Science** — Data Preprocessing, Feature Engineering, Model Developement and Evaluation 
+- 🔁 **Machine Learning** — Supervised, Unsupervised, Semi-supervised, Reinforcement and Deep Learning
+- 🎨 **Artificial Intelligence** — Machine Learning, NLP, Computer Vision, Robotics, Expert Systems and Fuzzy Logic 
+- ✍️ **Computer Science** — Data Structures and Algorthms, Operating Systems, Database Management and Programming
+- ⚡ **Natural Language Processing** — Text Preprocessing / Classification, NER, POS, Language Modelling and Machine Translation
+- 💚 **Large Language Models** — Sentinment Analysis, Code Generation, Text Generation and Completion
+- 🚫 **MLOps** — Versioning, Deployment, Automation CI/CD, Governance and Compliance
+- ❌ **Computer Vision** — Image Classification, Object Detection, Facial Recognition, OCR and Object Detection
+- ☀️ **Open Source Contributions** Maintaining Repositories, Bug Fixes, Documentation Improvements, Reviewing Pull Requests and Code Refactoring
+
+---
+
+## 💻 Tech Stack
+
+```ts
+Languages:      Python, SQL, R, , HTML, Julia, Visual Basic, FORTRAN
+Libraries:      Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, Numpy, Seaborn, Matplotlib
+                Y-Finance, SciPy, Streamlit, Beautiful Soup, SQLAlchemy, OpenCV, OpenNLP, NLTK,
+                Pytest, Scrapy 
+Databases:      MySQL, PostgreSQL, Sqlite
+Cloud:          AWS, GCP, Azure
+Dev Tools:      Git, Jupyter Notebook, GitHub, Docker (learning), Vscode, Anaconda, Google Colab,
+```
+---
+
+
+## 🎯 Professional Goals
+
+- 💼 **Career Goal:** Become a strong Data Scientist and AI/ML Engineer
+- 📚 **Continuous Learning:** Improve DSA, Databases, Algorithm and Complexity Analysis, and Machine learning Skills  
+- 🌍 **Community:** Share knowledge through linkedin post and GitHub projects  
+
+---
+
+<p align="center"><em>“Code. Learn. Build. Repeat.”</em></p>
