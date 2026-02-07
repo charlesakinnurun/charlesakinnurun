@@ -283,7 +283,7 @@
 ---
 
 ## 🧠 About Me
-Hi — I’m **Charles**, currently working as a **Data Scientist (VIRTUAL EXPERIENCE) at British Airways**.  
+Hi — I’m **Charles Akinnurun**, currently working as a **Data Scientist (VIRTUAL EXPERIENCE) at British Airways**.  
 
 
 <!-- As a Data Scientist and AI/ML Engineer, I specialize in data science, machine learning, deep learning, natural language processing, and computer vision, with a proven record of building scalable, production-ready AI systems that deliver quantifiable business and technical impact.
