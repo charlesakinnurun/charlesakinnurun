@@ -288,7 +288,7 @@ Hi — I’m **Charles Akinnurun**, currently working as a **Data Scientist (VIR
 
 <!-- As a Data Scientist and AI/ML Engineer, I specialize in data science, machine learning, deep learning, natural language processing, and computer vision, with a proven record of building scalable, production-ready AI systems that deliver quantifiable business and technical impact.
 
-I have led and executed the end-to-end machine learning lifecycle across 140+ ML projects, spanning data collection, preprocessing, feature engineering, EDA, model development, evaluation, deployment, monitoring, and optimization. Through systematic experimentation and tuning, I improved model performance by 18–45%, reduced error rates by 25–40%, and increased model stability across multiple deployment environments.
+I have led and executed the end-to-end machine learning lifecycle across 140+ ML projects, spanning data collection, preprocessing, feature engineering, EDA, model development, evaluation, deployment, monitoring, and optimization. Through systematic experimentation and tuning, I improved model performance by ;18–45%, reduced error rates by 25–40%, and increased model stability across multiple deployment environments.
 
 My work includes classification, regression, clustering, association rule mining, dimensionality reduction, time-series forecasting, and real-time inference systems, supporting use cases such as prediction, recommendation, anomaly detection, and automation. I have built 10+ real-time and batch inference pipelines, achieving 99%+ uptime and reducing prediction latency by 35–55% through optimized architectures and model compression techniques.
 
