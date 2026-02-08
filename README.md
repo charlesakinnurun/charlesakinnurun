@@ -276,7 +276,7 @@
 <h1 align="center">Hi, I'm Charles 👋</h1>
 
 <p align="center">
-  <b>Data Scientist • AI/ML Enginneer • Computer Science • NLP • LLMs • MLOps • Computer Vison • Open Source Contributor</b><br>
+  <b>Data Scientist • AI/ML Enginneer • OSS Contributor • NLP • Computer Vision • LLMs • MLOps • Computer Science</b><br>
   <!--Building predictive models that drives real world impact.-->
 </p>
 
