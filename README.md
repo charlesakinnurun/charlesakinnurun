@@ -333,7 +333,7 @@ In addition to hands-on development, I actively contribute to open-source projec
 - ✍️ Writing Linkedin posts and contributing to GitHub-->
 
 ---
-
+<!--
 ## 🔥 What I Do
 
 - 🌐 **Data Science** — *Data Preprocessing, Feature Engineering, Model Developement and Evaluation* 
@@ -345,8 +345,8 @@ In addition to hands-on development, I actively contribute to open-source projec
 - 🚫 **MLOps** — *Versioning, Deployment, Automation CI/CD, Governance and Compliance*
 - ❌ **Computer Vision** — *Image Classification, Object Detection, Facial Recognition, OCR and Object Detection*
 - ☀️ **Open Source Contributions** — *Maintaining Repositories, Bug Fixes, Documentation Improvements, Reviewing Pull Requests and Code Refactoring*
-
----
+-->
+--- 
 
 <!-- ## 💻 Tech Stack
 
