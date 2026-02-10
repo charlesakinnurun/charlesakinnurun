@@ -332,7 +332,7 @@ In addition to hands-on development, I actively contribute to open-source projec
 - 📚 Graduating with a **4+ CGPA**  
 - ✍️ Writing Linkedin posts and contributing to GitHub-->
 
----
+
 <!--
 ## 🔥 What I Do
 
@@ -346,7 +346,7 @@ In addition to hands-on development, I actively contribute to open-source projec
 - ❌ **Computer Vision** — *Image Classification, Object Detection, Facial Recognition, OCR and Object Detection*
 - ☀️ **Open Source Contributions** — *Maintaining Repositories, Bug Fixes, Documentation Improvements, Reviewing Pull Requests and Code Refactoring*
 -->
---- 
+
 
 <!-- ## 💻 Tech Stack
 
