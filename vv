@@ -293,8 +293,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="500" height="69.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> Data Scientist and AI/ML Engineer </text>
-    <text x="15" y="50"> Specializes in NLP, LLMs and Computer Vision </text>
+    <text x="15" y="27"> Data Scientist and Machine Learning Engineer </text>
+    <text x="15" y="50"> Loves uncovering hidden patterns from data </text>
   </g>
 
   <!-- typing 3 -->
@@ -318,7 +318,6 @@
     <rect width="490" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27"> Expert at training ML models that drive real-world impact </text>    
   </g>
-
 
   <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
