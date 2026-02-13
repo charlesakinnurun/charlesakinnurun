@@ -18,7 +18,7 @@ Hi — I’m **Charles Akinnurun**, currently working as a **Data Scientist (VIR
 <p>My work spans <b>regression, classification, clustering, association rule mining, dimensionality reduction</b>, time-series forecasting, and real-time inference systems. These models have:</p>
 
 <ul>
-<li>Improved regression model performance with <b>R² increased by 0.31, RMSE reduced by 22%, MAE reduced by 19%, and MAPE reduced by 17%.</b><li>
+<li>Improved regression model performance with <b>R² increased by 0.31, RMSE reduced by 22%, MAE reduced by 19%, and MAPE reduced by 17%.</b></li>
 <li>Increased prediction <b>accuracy by up to 42%, improving F1-Score by 0.29, Recall by 18%, and ROC-AUC by 0.21.</b></li>
 <li>Increased <b>Precision by 24%</b> while reducing <b>False Positive Rate (FPR) by 21%.</b></li>
 <li>Boosted <b>ROC-AUC by 0.21 and PR-AUC by 0.19,</b> strengthening class discrimination performance.</li>
