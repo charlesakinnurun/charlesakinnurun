@@ -13,7 +13,7 @@ Hi — I’m **Charles Akinnurun**, currently working as a **Data Scientist (VIR
 
 <p>I have led and executed the end-to-end machine learning lifecycle across <b>140+ ML projects</b>, spanning <b>data collection, preprocessing, feature engineering, exploratory data analysis (EDA), model development, evaluation, deployment</b>, monitoring, and optimization using <b>Python (Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, NumPy, Seaborn, Matplotlib), R, and SQL.</b> These projects processed datasets ranging from <b>100K to 10M+ records</b>, supporting batch and real-time inference systems serving <b>up to 5,000+ requests per minute.</b></p>
 
-<p>Through systematic experimentation and advanced hyperparameter tuning <b>using XGBoost, LightGBM, and CatBoost,</b> I improved model performance by <b>38%–45%,</b> reduced error rates by <b>27%–40%,</b> increased AUC scores from <b>0.71 to 0.89,</b> and reduced inference latency <b>by 30%,</b> enabling near real-time decision-making in production environments.</p>
+<p>Through systematic experimentation and advanced hyperparameter tuning <b>using XGBoost, LightGBM, and CatBoost,</b> I improved model performance by <b>38%–45%,</b> reduced error rates by <b>27%–40%,</b> increased <b>AUC scores from 0.71 to 0.89,</b> and reduced inference latency <b>by 30%,</b> enabling near real-time decision-making in production environments.</p>
 
 <p>My work spans <b>regression, classification, clustering, association rule mining, dimensionality reduction</b>, time-series forecasting, and real-time inference systems. These models have:</p>
 
