@@ -26,7 +26,7 @@ Hi — I’m **Charles Akinnurun**, currently working as a **Data Scientist (VIR
 <li>Increased <b>Calinski–Harabasz Index by 31%,</b> reflecting improved cluster structure and variance ratio.</li>
 </ul>
 
-<p>I bring a strong foundation in computer science, applied mathematics, statistics, probability, algorithms, and data structures, enabling me to design robust, scalable, and interpretable systems handling multi-terabyte datasets and distributed workloads.</p>
+<p>I bring a strong foundation in <b>computer science, applied mathematics, statistics, probability, data structures and algorithms,</b> enabling me to design robust, scalable, and interpretable systems handling multi-terabyte datasets and distributed workloads.</p>
 
 <p>I design and manage scalable database systems supporting AI/ML workflows using <b>PostgreSQL, MySQL, and SQLite,</b> building optimized schemas and high-performance queries. I have <b>developed and maintained 50+</b> database-driven pipelines, reducing query latency by <b>35–60%,</b> improving data processing throughput by <b>40–55%,</b> and lowering infrastructure costs <b>by 20% through indexing, partitioning, caching, and query optimization.</b></p>
 
