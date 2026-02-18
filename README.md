@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Charles 👋</h1>
 
-<p align="center">
+<!-- <p align="center">
   <b>Data Scientist • AI/ML Enginneer • OSS Contributor • NLP • Computer Vision • LLMs • MLOps • Computer Science</b><br>
-</p>
+</p>-->
 
 
 
 ## 🧠 About Me
 <!-- Hi — I’m **Charles Akinnurun**, currently working as a **Data Scientist (VIRTUAL EXPERIENCE) at British Airways**.  -->
 
-As a Data Scientist, AI/ML Engineer and an OSS Contributor that specializes in data science, machine learning, deep learning, natural language processing, computer vision, and artificial intelligence, with a proven track record of building scalable, production-ready systems that deliver measurable business and technical impact.
+I'm a Data Scientist, AI/ML Engineer and an OSS Contributor that specializes in data science and analytics,machine learning,deep learning, natural language processing, computer vision, and artificial intelligence, with a proven track record of building scalable, production-ready systems that deliver measurable business and technical impact.
 
 I have led and executed the end-to-end machine learning lifecycle across 150+ projects, spanning data collection, preprocessing, feature engineering, exploratory data analysis, model training, evaluation, hyper parameter tuning, deployment, monitoring, and optimization using Python (Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, NumPy, Seaborn, Matplotlib), R, and SQL. These projects processed datasets ranging from 100K to 10M+ records, supporting batch and real-time inference systems serving up to 5,000+ requests per minute.
 
