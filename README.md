@@ -120,7 +120,7 @@ My work focuses on solving real-world problems using data science, artificial in
 * 🔬 Specialize in **Data Science, Machine Learning, Deep Learning, NLP, Computer Vision, and AI**
 * 🧠 Strong foundation in **Computer Science, Applied Mathematics, Statistics, Probability, Data Structures & Algorithms**
 * ⚙️ Build **robust, scalable, interpretable systems** handling multi-terabyte datasets and distributed workloads
-* 🌍 Active **Open Source Contributor** collaborating across various OSS project
+* 🌍 Active **Open Source Contributor** collaborating across various OSS projects
 
 ---
 
@@ -128,10 +128,10 @@ My work focuses on solving real-world problems using data science, artificial in
 
 #### 🤖 Data Science & Machine Learning 
 
-* 🐍 Python, R, SQL powering end-to-end data workflows, modeling, and analytics pipelines
-* 📦 Built and trained ML/DL models using Scikit-learn, PyTorch, TensorFlow, and Keras across research and production environments
-* 📊 Processed and analyzed large datasets with Pandas & NumPy, producing actionable insights through Seaborn & Matplotlib visualizations
-* 🚀 Improved predictive accuracy and robustness using XGBoost, LightGBM, and CatBoost for high-performance tabular modeling
+* 🐍 **Python, R, SQL** powering end-to-end data workflows, modeling, and analytics pipelines
+* 📦 Built and trained ML/DL models using **Scikit-learn, PyTorch, TensorFlow, and Keras** across research and production environments
+* 📊 Processed and analyzed large datasets with **Pandas & NumPy**, producing actionable insights through **Seaborn & Matplotlib** visualizations
+* 🚀 Improved predictive accuracy and robustness using **XGBoost, LightGBM, and CatBoost** for high-performance tabular modeling
 * ⚙️ Executed full ML lifecycle pipelines from data ingestion → feature engineering → modeling → deployment → monitoring in production systems
 * 📈 Delivered scalable models supporting real-time and batch inference workloads across multiple domains
 * 🔁 Optimized experimentation workflows to accelerate model iteration, validation, and deployment cycles
