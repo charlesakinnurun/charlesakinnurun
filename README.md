@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Charles 👋</h1>
+<!--<h1 align="center">Hi, I'm Charles 👋</h1>-->
 
 <!-- <p align="center">
   <b>Data Scientist • AI/ML Enginneer • OSS Contributor • NLP • Computer Vision • LLMs • MLOps • Computer Science</b><br>
@@ -6,9 +6,9 @@
 
 
 
-## 🧠 About Me
+<!--## 🧠 About Me-->
 <!-- Hi — I’m **Charles Akinnurun**, currently working as a **Data Scientist (VIRTUAL EXPERIENCE) at British Airways**.  -->
-
+<!--
 I'm a Data Scientist, AI/ML Engineer and an OSS Contributor that specializes in data science and analytics, machine learning, computer science, deep learning, natural language processing, computer vision, and artificial intelligence, with a proven track record of building scalable, production-ready systems that deliver measurable business and technical impact.
 
 I have led and executed the end-to-end machine learning lifecycle across 150+ projects, spanning data collection, preprocessing, feature engineering, exploratory data analysis, model training, evaluation, hyper parameter tuning, deployment, monitoring, and optimization using Python (Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, NumPy, Seaborn, Matplotlib), R, and SQL. These projects processed datasets ranging from 100K to 10M+ records, supporting batch and real-time inference systems serving up to 5,000+ requests per minute.
@@ -17,6 +17,7 @@ Through systematic experimentation and advanced hyperparameter tuning using XGBo
 
 In addition to hands-on development, I actively contribute to open-source projects, collaborate with cross-functional teams (engineering, product, analytics) across 25+ projects, accelerate experimentation cycles by 39%, and regularly transform research prototypes into production-ready systems within 3–4 weeks, reducing time-to-deployment by 47%.
 
+-->
 
 <!--
 <p>As a <b>Data Scientist, AI/ML Engineer</b> and an <b>OSS Contributor</b> that specializes in <b>data science, machine learning, deep learning, natural language processing (NLP), computer vision, and artificial intelligence</b>, with a proven track record of building scalable, production-ready AI/ML systems that deliver measurable business and technical impact.</p>
@@ -48,4 +49,156 @@ In addition to hands-on development, I actively contribute to open-source projec
 -->
 
 
-<p align="center"><em>“Code. Learn. Build. Repeat.”</em></p>
+<!-- <p align="center"><em>“Code. Learn. Build. Repeat.”</em></p>-->
+
+
+
+
+
+
+
+
+<!--
+
+# Hi, I'm Charles 👋
+
+**Data Scientist | AI/ML Engineer | NLP • LLMs • Computer Vision**
+
+I build end-to-end machine learning systems — from data preparation and modeling to deployment and evaluation.
+My work focuses on solving real-world problems using data science, artificial intelligence, and scalable ML pipelines.
+
+---
+
+## 🔧 Technical Skills
+
+* **Languages:** Python, SQL
+* **Machine Learning:** Scikit-learn, XGBoost, Model Evaluation, Feature Engineering
+* **Deep Learning:** PyTorch, Neural Networks, Computer Vision, NLP
+* **Data Science:** Pandas, NumPy, Data Visualization, EDA
+* **MLOps & Tools:** Git, GitHub, Docker (learning), APIs, Deployment workflows
+<!--
+---
+
+## 📌 Featured Projects
+
+* 📈 **Stock Prediction Models** – Built classification systems to forecast market direction
+* 💬 **NLP Sentiment Classifier** – Predicted review polarity from movie datasets
+* ✉️ **Spam Detection System** – Machine learning pipeline for SMS classification
+* 🚗 **Ride Demand Analysis** – Identified peak usage and pricing patterns
+
+*(Check pinned repositories for full implementations.)*-->
+
+---
+<!--
+## 🌱 Currently Learning
+
+* Advanced MLOps & model deployment
+* LLM applications and prompt engineering
+* Scalable ML systems in production
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/charlesakinnurun
+* 📧 Email: [charlesakinnurun@gmail.com](mailto:charlesakinnurun@gmail.com)
+
+---
+
+⭐ *I’m open to data science, AI, and machine learning opportunities and collaborations.*
+-->
+
+
+## 👋 Hi, I'm Charles
+
+🚀 **Data Scientist | AI/ML Engineer | Open Source Contributor**
+
+---
+
+### 💡 About Me
+
+* 🔬 Specialize in **Data Science, Machine Learning, Deep Learning, NLP, Computer Vision, and AI**
+* 🧠 Strong foundation in **Computer Science, Applied Mathematics, Statistics, Probability, Data Structures & Algorithms**
+* ⚙️ Build **robust, scalable, interpretable systems** handling multi-terabyte datasets and distributed workloads
+* 🌍 Active **Open Source Contributor** collaborating across various OSS project
+
+---
+
+### 🛠️ Technical Expertise
+
+#### 🤖 Data Science & Machine Learning 
+
+* 🐍 Python, R, SQL
+* 📦 Scikit-learn, PyTorch, TensorFlow, Keras
+* 📊 Pandas, NumPy, Seaborn, Matplotlib
+* 🚀 XGBoost, LightGBM, CatBoost
+* ⚙️ Full ML lifecycle: data → modeling → deployment → monitoring
+
+#### 📊 Data Analytics
+* 📈 **Data Analysis & Exploration:** Exploratory Data Analysis (EDA), trend analysis, cohort analysis, anomaly detection
+* 🧮 **Statistical Methods:** Hypothesis testing, regression analysis, probability modeling, A/B testing, confidence intervals
+* 🗄️ **Data Querying:** Advanced SQL (joins, window functions, CTEs, query optimization, indexing strategies)
+* 🐍 **Analytics Tools:** Pandas, NumPy, SciPy, StatsModels
+* 📊 **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI
+* 🔄 **Data Cleaning & Preparation:** Missing value handling, normalization, feature engineering, transformation pipelines
+* 🏗️ **Data Warehousing:** Schema design, dimensional modeling, star/snowflake schemas, OLAP concepts
+* ⚙️ **Automation & Reporting:** Dashboard development, automated reports, KPI monitoring, business metrics tracking
+* 📦 **Big Data Handling:** Efficient processing of large datasets, batch analytics workflows, performance tuning
+* 🧠 **Business Analytics:** Translating data into insights, stakeholder reporting, decision-support modeling
+
+
+#### 🗄️ Data Engineering & Databases
+
+* 🐘 PostgreSQL, MySQL, SQLite
+* 🏗️ Design optimized schemas & high-performance queries for AI workflows
+* 🔄 Built **50+ database-driven pipelines** supporting production ML systems
+* ⚡ Reduced query latency by **35–60%**
+* 📈 Improved data throughput by **40–55%**
+* 💰 Lowered infrastructure costs by **20%** via indexing, partitioning, caching & optimization
+
+#### 🔧 Data Pipelines & Reliability
+
+* 🔄 Implement robust **ETL/ELT pipelines** for large-scale systems
+* ✅ Automated validation & monitoring checks for production data
+* 📊 Increased data reliability by **30–45%**
+* 🚨 Reduced pipeline failures by **50%**
+* 🎯 Achieved **99%+ data consistency** across environments
+
+---
+
+### 📈 Impact & Achievements
+
+* 🧩 Led **150+ end-to-end ML projects** from collection → deployment
+* 📊 Worked with datasets from **100K to 10M+ records**
+* ⚡ Built inference systems handling **5,000+ requests/minute**
+* 🎯 Improved model performance by **41–45%**
+* 🧮 Reduced prediction errors by **27–40%**
+* 🚀 Cut inference latency by **33%**
+* ⏱️ Reduced time-to-deployment by **47%** by converting research into production within **3–4 weeks**
+
+---
+
+### 🤝 Collaboration & Open Source
+
+* 👥 Worked across **engineering, product, and analytics teams** on 25+ projects
+* 🔁 Accelerated experimentation cycles by **39%**
+* 🌐 Contribute to open-source projects and knowledge communities
+
+---
+
+### 🎯 Current Focus
+
+* 🤖 Scalable AI systems & intelligent automation
+* 🧠 Production LLM and advanced ML systems
+* ⚙️ Efficient data infrastructure & MLOps pipelines
+
+---
+
+### 📫 Let’s Connect
+
+* 💼 Open to collaboration, research, and impactful AI projects
+* 🌟 Always learning, building, and contributing to the ML ecosystem
+
+---
+
+⭐ *Explore my repositories to see real-world ML systems, scalable data pipelines, and production deployments in action!*
