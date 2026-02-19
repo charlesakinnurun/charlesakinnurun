@@ -88,7 +88,7 @@ My work focuses on solving real-world problems using data science, artificial in
 
 *(Check pinned repositories for full implementations.)*-->
 
----
+
 <!--
 ## 🌱 Currently Learning
 
@@ -113,7 +113,7 @@ My work focuses on solving real-world problems using data science, artificial in
 
 <h3 align="center">Data Scientist • AI/ML Engineer • OSS Contributor • MLOps • LLMs • NLP • Computer Vision</h2>
 
----
+
 
 ### 💡 About Me
 
@@ -136,6 +136,8 @@ My work focuses on solving real-world problems using data science, artificial in
 * 📈 Delivered scalable models supporting real-time and batch inference workloads across multiple domains
 * 🔁 Optimized experimentation workflows to accelerate model iteration, validation, and deployment cycles
 
+---
+
 #### 📊 Data Analytics
 * 📈 **Data Analysis & Exploration:** Exploratory Data Analysis (EDA), trend analysis, cohort analysis, anomaly detection
 * 🧮 **Statistical Methods:** Hypothesis testing, regression analysis, probability modeling, A/B testing, confidence intervals
@@ -148,7 +150,7 @@ My work focuses on solving real-world problems using data science, artificial in
 * 📦 **Big Data Handling:** Efficient processing of large datasets, batch analytics workflows, performance tuning
 * 🧠 **Business Analytics:** Translating data into insights, stakeholder reporting, decision-support modeling
 
-
+---
 #### 🗄️ Data Engineering & Databases
 
 * 🐘 PostgreSQL, MySQL, SQLite
@@ -201,6 +203,7 @@ My work focuses on solving real-world problems using data science, artificial in
 * 💼 Open to collaboration, research, and impactful AI projects
 * 🌟 Always learning, building, and contributing to the ML ecosystem
 
----
 
+<!--
 ⭐ *Explore my repositories to see real-world ML systems, scalable data pipelines, and production deployments in action!*
+-->
