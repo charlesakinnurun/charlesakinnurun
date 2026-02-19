@@ -109,7 +109,7 @@ My work focuses on solving real-world problems using data science, artificial in
 -->
 
 
-## 👋 Hi, I'm Charles
+<h2 align="center">👋 Hi, I'm Charles</h2>
 
 🚀 **Data Scientist | AI/ML Engineer | Open Source Contributor**
 
