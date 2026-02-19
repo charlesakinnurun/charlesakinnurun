@@ -109,9 +109,9 @@ My work focuses on solving real-world problems using data science, artificial in
 -->
 
 
-<h2 align="center">👋 Hi, I'm Charles</h2>
+<h1 align="center">👋 Hi, I'm Charles</h1>
 
-🚀 **Data Scientist | AI/ML Engineer | Open Source Contributor**
+<h3 align="center">Data Scientist • AI/ML Engineer • OSS Contributor • MLOps • LLMs • NLP • Computer Vision</h2>
 
 ---
 
@@ -128,11 +128,13 @@ My work focuses on solving real-world problems using data science, artificial in
 
 #### 🤖 Data Science & Machine Learning 
 
-* 🐍 Python, R, SQL
-* 📦 Scikit-learn, PyTorch, TensorFlow, Keras
-* 📊 Pandas, NumPy, Seaborn, Matplotlib
-* 🚀 XGBoost, LightGBM, CatBoost
-* ⚙️ Full ML lifecycle: data → modeling → deployment → monitoring
+* 🐍 Python, R, SQL powering end-to-end data workflows, modeling, and analytics pipelines
+* 📦 Built and trained ML/DL models using Scikit-learn, PyTorch, TensorFlow, and Keras across research and production environments
+* 📊 Processed and analyzed large datasets with Pandas & NumPy, producing actionable insights through Seaborn & Matplotlib visualizations
+* 🚀 Improved predictive accuracy and robustness using XGBoost, LightGBM, and CatBoost for high-performance tabular modeling
+* ⚙️ Executed full ML lifecycle pipelines from data ingestion → feature engineering → modeling → deployment → monitoring in production systems
+* 📈 Delivered scalable models supporting real-time and batch inference workloads across multiple domains
+* 🔁 Optimized experimentation workflows to accelerate model iteration, validation, and deployment cycles
 
 #### 📊 Data Analytics
 * 📈 **Data Analysis & Exploration:** Exploratory Data Analysis (EDA), trend analysis, cohort analysis, anomaly detection
