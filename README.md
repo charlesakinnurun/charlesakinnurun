@@ -179,7 +179,7 @@ My work focuses on solving real-world problems using data science, artificial in
 * 🧮 Reduced prediction errors by **27–40%**
 * 🚀 Cut inference latency by **33%**
 * ⏱️ Reduced time-to-deployment by **47%** by converting research into production within **3–4 weeks**
-
+<!--
 ---
 
 ### 🤝 Collaboration & Open Source
@@ -203,7 +203,7 @@ My work focuses on solving real-world problems using data science, artificial in
 * 💼 Open to collaboration, research, and impactful AI projects
 * 🌟 Always learning, building, and contributing to the ML ecosystem
 
-
+-->
 <!--
 ⭐ *Explore my repositories to see real-world ML systems, scalable data pipelines, and production deployments in action!*
 -->
