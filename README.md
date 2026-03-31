@@ -187,8 +187,8 @@ You can also find me on other social media:
 
 ---
 
-### My toolbox
-
+### Area of Expertise
+<!--
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
@@ -226,4 +226,49 @@ You can also find me on other social media:
   <img alt="spaCy" src="https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
   <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img alt="XGBoost" src="https://img.shields.io/badge/-XGBoost-AA4A44?style=flat-square&logo=xgboost&logoColor=white" />
+</p>
+-->
+
+
+
+<p>
+  <!-- LANGUAGES -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" />
+  <img alt="Julia" src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white" />
+  <!-- LIBRARIES / FRAMEWORKS -->
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-77ACF1?style=flat-square&logo=seaborn&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img alt="NLTK" src="https://img.shields.io/badge/-NLTK-4B8BBE?style=flat-square&logo=python&logoColor=white" />
+  <img alt="spaCy" src="https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="OpenNLP" src="https://img.shields.io/badge/-OpenNLP-009639?style=flat-square&logo=apache&logoColor=white" />
+  <img alt="LightGBM" src="https://img.shields.io/badge/-LightGBM-00A0E9?style=flat-square&logo=lightgbm&logoColor=white" />
+  <img alt="XGBoost" src="https://img.shields.io/badge/-XGBoost-AA4A44?style=flat-square&logo=xgboost&logoColor=white" />
+  <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful%20Soup-8B4513?style=flat-square&logo=python&logoColor=white" />
+  <!-- DATABASES -->
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-K8S-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1A73E8?style=flat-square&logo=langchain&logoColor=white" />
+  <img alt="Langraph" src="https://img.shields.io/badge/-Langraph-000000?style=flat-square&logo=langraph&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FF9900?style=flat-square&logo=huggingface&logoColor=white" />
+  <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-5C2D91?style=flat-square&logo=pytest&logoColor=white"/>
+  <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
 </p>
