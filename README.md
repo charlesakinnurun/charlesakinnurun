@@ -54,7 +54,7 @@ I'm an Applied Data Scientist, AI/ML Engineer, and <!--AI/ML Scholar at [AWS](ht
 
 Over the past four years, I have gained extensive experience in both imperative and declarative programming, working with Python, R, and SQL across diverse industries, including technology, finance, consulting, aviation, and healthcare.
 
-Currently studying Computer Science and an active member of the National Association of Computing Students (NACOS)<!-- at [Lagos State University of Education](https://lasued.edu.ng/web/)-->
+Currently studying Computer Science and an active member of the National Association of Computing Students<!-- at [Lagos State University of Education](https://lasued.edu.ng/web/)-->
 
 I am passionate about designing, training, and deploying intelligent AI and machine learning solutions that deliver meaningful business impact.
 
