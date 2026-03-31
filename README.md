@@ -1,55 +1,75 @@
-<!--<h1 align="center">Hi, I'm Charles 👋</h1>-->
+## Hi there, I'm Charles (he/him) 👋
 
-<!-- <p align="center">
-  <b>Data Scientist • AI/ML Enginneer • OSS Contributor • NLP • Computer Vision • LLMs • MLOps • Computer Science</b><br>
-</p>-->
+<p align="center">
+  <a href="" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
+  <a href="mailto:charlesakinnurun@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+  <!-- <a href="https://youtube.com/c/chshersh" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>-->
+  <!-- <a href="https://x.com/intent/follow?screen_name=chshersh&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/extwitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>-->
+  <a href="https://www.linkedin.com/in/charlesakinnurun/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <!--<a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/badge/Sponsor-171515?&style=for-the-badge&logo=github&logoColor=white" /></a>-->
+</p>
+
+<!-- I'm a Data Science Remote Extern (Virtual Experinece) at [Lloyds Banking Group](https://www.lloydsbankinggroup.com/) using Scikit-learn. All opinions are my own. -->
+
+<!-- For the last 10 years, I've been using Functional Programming (OCaml, Haskell, Elm, PureScript, Nix) in various industries including healthcare, education, dating, fintech, and blockchain. But everything has changed recently (WHAT HAPPENED???).-->
+
+<!-- For the past 4 years, I've been using Imperative and 
+Declarative Programming (Python, R and SQL) in various industries including technology, finance, consulting, aviation and healthcare. -->
+
+<!-- I'm a Computer Science Student and also a NACOS member at [Lagos State University of Education](https://lasued.edu.ng/web/) -->
+
+<!-- I was a member of [the Haskell Core Libraries Committee][clc] in 2023.-->
+
+<!-- My passion is making Functional Programming more accessible to people with diverse backgrounds.
+Check out my free [Haskell Course for complete beginners][haskell-course]!-->
 
 
 
-<!--## 🧠 About Me-->
-<!-- Hi — I’m **Charles Akinnurun**, currently working as a **Data Scientist (VIRTUAL EXPERIENCE) at British Airways**.  -->
 <!--
-I'm a Data Scientist, AI/ML Engineer and an OSS Contributor that specializes in data science and analytics, machine learning, computer science, deep learning, natural language processing, computer vision, and artificial intelligence, with a proven track record of building scalable, production-ready systems that deliver measurable business and technical impact.
+My passion is training and deploying intelligent artificial intelligence and machine learning models to improve business impact.
 
-I have led and executed the end-to-end machine learning lifecycle across 150+ projects, spanning data collection, preprocessing, feature engineering, exploratory data analysis, model training, evaluation, hyper parameter tuning, deployment, monitoring, and optimization using Python (Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, NumPy, Seaborn, Matplotlib), R, and SQL. These projects processed datasets ranging from 100K to 10M+ records, supporting batch and real-time inference systems serving up to 5,000+ requests per minute.
-
-Through systematic experimentation and advanced hyperparameter tuning using XGBoost, LightGBM, and CatBoost, I improved model performance by 41%–45%, reduced error rates by 27%–40%, and reduced inference latency by 33%, enabling near real-time decision-making in production environments.
-
-In addition to hands-on development, I actively contribute to open-source projects, collaborate with cross-functional teams (engineering, product, analytics) across 25+ projects, accelerate experimentation cycles by 39%, and regularly transform research prototypes into production-ready systems within 3–4 weeks, reducing time-to-deployment by 47%.
-
--->
-
-<!--
-<p>As a <b>Data Scientist, AI/ML Engineer</b> and an <b>OSS Contributor</b> that specializes in <b>data science, machine learning, deep learning, natural language processing (NLP), computer vision, and artificial intelligence</b>, with a proven track record of building scalable, production-ready AI/ML systems that deliver measurable business and technical impact.</p>
-
-<p>I have led and executed the end-to-end machine learning lifecycle across <b>150+ ML projects</b>, spanning <b>data collection, preprocessing, feature engineering, exploratory data analysis (EDA), model development, evaluation, deployment</b>, monitoring, and optimization using <b>Python (Scikit-learn, PyTorch, TensorFlow, Keras, Pandas, NumPy, Seaborn, Matplotlib), R, and SQL.</b> These projects processed datasets ranging from <b>100K to 10M+ records</b>, supporting batch and real-time inference systems serving <b>up to 5,000+ requests per minute.</b></p>
-
-<p>Through systematic experimentation and advanced hyperparameter tuning <b>using XGBoost, LightGBM, and CatBoost,</b> I improved model performance by <b>38%–45%,</b> reduced error rates by <b>27%–40%,</b> increased <b>AUC scores from 0.71 to 0.89,</b> and reduced inference latency <b>by 30%,</b> enabling near real-time decision-making in production environments.</p>
-
-<p>My work spans <b>regression, classification, clustering, association rule mining, dimensionality reduction</b>, time-series forecasting, and real-time inference systems. These models have:</p>
-
-<ul>
-<li>Improved regression model performance with <b>R² increased by 0.31, RMSE reduced by 22%, MAE reduced by 19%, and MAPE reduced by 17%.</b></li>
-<li>Increased prediction <b>accuracy by up to 42%, improving F1-Score by 0.29, Recall by 18%, and ROC-AUC by 0.21.</b></li>
-<li>Increased <b>Precision by 24%</b> while reducing <b>False Positive Rate (FPR) by 21%.</b></li>
-<li>Boosted <b>ROC-AUC by 0.21 and PR-AUC by 0.19,</b> strengthening class discrimination performance.</li>
-<li>Reduced <b>Davies–Bouldin Index by 22%,</b> demonstrating better cluster compactness and separation.</li>
-<li>Increased <b>Calinski–Harabasz Index by 31%,</b> reflecting improved cluster structure and variance ratio.</li>
-</ul>
-
-<p>I bring a strong foundation in <b>computer science, applied mathematics, statistics, probability, data structures and algorithms,</b> enabling me to design robust, scalable, and interpretable systems handling multi-terabyte datasets and distributed workloads.</p>
-
-<p>I design and manage scalable database systems supporting AI/ML workflows using <b>PostgreSQL, MySQL, and SQLite,</b> building optimized schemas and high-performance queries. I have <b>developed and maintained 50+</b> database-driven pipelines, reducing query latency by <b>35–60%,</b> improving data processing throughput by <b>40–55%,</b> and lowering infrastructure costs <b>by 20% through indexing, partitioning, caching, and query optimization.</b></p>
-
-<p>By implementing robust <b>ETL/ELT pipelines,</b> automated validation checks, and data quality monitoring systems, I increased data <b>reliability by 30–45%,</b> reduced pipeline <b>failures by 50%,</b> and <b>ensured 99%+ data consistency</b> across production environments.</p>
-
-<p>I have implemented automated retraining workflows that reduced manual intervention <b>by 70%,</b> established monitoring systems detecting data drift and model degradation <b>within 24 hours,</b> and <b>reduced model downtime by 60%</b>, maintaining SLA compliance <b>above 95%.</b></p>
-
-<p>In addition to hands-on development, I actively contribute to open-source projects, collaborate with cross-functional teams (engineering, product, analytics) <b>across 25+ projects,</b> accelerate experimentation cycles <b>by 35%,</b> and regularly transform research prototypes into production-ready systems <b>within 2–4 weeks,</b> reducing time-to-deployment <b>by 40%.</b></p>
+[clc]: https://github.com/haskell/core-libraries-committee
+[haskell-course]: https://github.com/haskell-beginners-2022/course-plan
 -->
 
 
-<!-- <p align="center"><em>“Code. Learn. Build. Repeat.”</em></p>-->
+
+
+
+
+
+
+
+
+
+
+
+<!-- I am a Data Science Remote Extern at [Lloyds Banking Group](https://www.lloydsbankinggroup.com/), where I work with tools like PyTorch, Scikit-learn to build and evaluate machine learning models. All opinions expressed are my own.-->
+
+<!-- I'm an Applied Data Scientist, AI/ML Engineer and an AI/ML Scholar at [AWS](https://github.com/aws),<!-- where I work with tools like PyTorch, Scikit-learn, LLMs, NLP, GenAI, Computer Vison,-->
+ <!-- with hands-on experience across data Science & analytics, machine & deep Learning, quantitative analytics, genAI, NLP, MLOps, computer vison, Artificial Intelligence, where I work with tools like PyTorch, Scikit-learn, AWS and lots more.-->
+
+I am an Applied Data Scientist, AI/ML Engineer, and AI/ML Scholar at [AWS](https://github.com/aws), specializing in machine & deep learning, generative AI, NLP, computer vision, and MLOps. I bring hands-on experience in data science, analytics, and quantitative and statistical modeling, working extensively with tools like PyTorch, Scikit-learn, and AWS to deliver impactful solutions.
+
+Over the past four years, I have gained extensive experience in both imperative and declarative programming, working with Python, R, and SQL across diverse industries, including technology, finance, consulting, aviation, and healthcare.
+
+Currently studying Computer Science and an active member of the National Association of Computing Students (NACOS)<!-- at [Lagos State University of Education](https://lasued.edu.ng/web/)-->
+
+I am passionate about designing, training, and deploying intelligent AI and machine learning solutions that deliver meaningful business impact.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -60,150 +80,150 @@ In addition to hands-on development, I actively contribute to open-source projec
 
 <!--
 
-# Hi, I'm Charles 👋
+### My work
 
-**Data Scientist | AI/ML Engineer | NLP • LLMs • Computer Vision**
+I do all kinds of work to help people get started with FP as easier as possible:
 
-I build end-to-end machine learning systems — from data preparation and modeling to deployment and evaluation.
-My work focuses on solving real-world problems using data science, artificial intelligence, and scalable ML pipelines.
+* [🎥 YouTube](https://youtube.com/c/chshersh) — FP, OCaml, Haskell, tech
+* [📚 Blog](https://chshersh.com/) — articles explaining idiomatic ways to solve problems using Functional Programming in OCaml and Haskell
 
----
+OSS has been a huge part of my educator and mentor journey for many years and I'd like to highlight a few notable projects:
 
-## 🔧 Technical Skills
-
-* **Languages:** Python, SQL
-* **Machine Learning:** Scikit-learn, XGBoost, Model Evaluation, Feature Engineering
-* **Deep Learning:** PyTorch, Neural Networks, Computer Vision, NLP
-* **Data Science:** Pandas, NumPy, Data Visualization, EDA
-* **MLOps & Tools:** Git, GitHub, Docker (learning), APIs, Deployment workflows
-<!--
----
-
-## 📌 Featured Projects
-
-* 📈 **Stock Prediction Models** – Built classification systems to forecast market direction
-* 💬 **NLP Sentiment Classifier** – Predicted review polarity from movie datasets
-* ✉️ **Spam Detection System** – Machine learning pipeline for SMS classification
-* 🚗 **Ride Demand Analysis** – Identified peak usage and pricing patterns
-
-*(Check pinned repositories for full implementations.)*-->
-
-
-<!--
-## 🌱 Currently Learning
-
-* Advanced MLOps & model deployment
-* LLM applications and prompt engineering
-* Scalable ML systems in production
-
----
-
-## 🤝 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/charlesakinnurun
-* 📧 Email: [charlesakinnurun@gmail.com](mailto:charlesakinnurun@gmail.com)
-
----
-
-⭐ *I’m open to data science, AI, and machine learning opportunities and collaborations.*
 -->
 
 
-<h1 align="center">👋 Hi, I'm Charles</h1>
-
-<h3 align="center">Data Scientist • AI/ML Engineer • OSS Contributor • MLOps • LLMs • NLP • Computer Vision</h2>
 
 
 
-### 💡 About Me
 
-* 🔬 Specialize in **Data Science, Machine Learning, Deep Learning, NLP, Computer Vision, and AI**
-* 🧠 Strong foundation in **Computer Science, Applied Mathematics, Statistics, Probability, Data Structures & Algorithms**
-* ⚙️ Build **robust, scalable, interpretable systems** handling multi-terabyte datasets and distributed workloads
-* 🌍 Active **Open Source Contributor** collaborating across various OSS projects
 
----
 
-### 🛠️ Technical Expertise
 
-#### 🤖 Data Science & Machine Learning 
 
-* 🐍 **Python, R, SQL** powering end-to-end data workflows, modeling, and analytics pipelines
-* 📦 Built and trained ML/DL models using **Scikit-learn, PyTorch, TensorFlow, and Keras** across research and production environments
-* 📊 Processed and analyzed large datasets with **Pandas & NumPy**, producing actionable insights through **Seaborn & Matplotlib** visualizations
-* 🚀 Improved predictive accuracy and robustness using **XGBoost, LightGBM, and CatBoost** for high-performance tabular modeling
-* ⚙️ Executed full ML lifecycle pipelines from data ingestion → feature engineering → modeling → deployment → monitoring in production systems
-* 📈 Delivered scalable models supporting real-time and batch inference workloads across multiple domains
-* 🔁 Optimized experimentation workflows to accelerate model iteration, validation, and deployment cycles
 
----
 
-#### 📊 Data Analytics
-* 📈 **Data Analysis & Exploration:** Exploratory Data Analysis (EDA), trend analysis, cohort analysis, anomaly detection
-* 🧮 **Statistical Methods:** Hypothesis testing, regression analysis, probability modeling, A/B testing, confidence intervals
-* 🗄️ **Data Querying:** Advanced SQL (joins, window functions, CTEs, query optimization, indexing strategies)
-* 🐍 **Analytics Tools:** Pandas, NumPy, SciPy, StatsModels
-* 📊 **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI
-* 🔄 **Data Cleaning & Preparation:** Missing value handling, normalization, feature engineering, transformation pipelines
-* 🏗️ **Data Warehousing:** Schema design, dimensional modeling, star/snowflake schemas, OLAP concepts
-* ⚙️ **Automation & Reporting:** Dashboard development, automated reports, KPI monitoring, business metrics tracking
-* 📦 **Big Data Handling:** Efficient processing of large datasets, batch analytics workflows, performance tuning
-* 🧠 **Business Analytics:** Translating data into insights, stakeholder reporting, decision-support modeling
 
----
-#### 🗄️ Data Engineering & Databases
 
-* 🐘 PostgreSQL, MySQL, SQLite
-* 🏗️ Design optimized schemas & high-performance queries for AI workflows
-* 🔄 Built **50+ database-driven pipelines** supporting production ML systems
-* ⚡ Reduced query latency by **35–60%**
-* 📈 Improved data throughput by **40–55%**
-* 💰 Lowered infrastructure costs by **20%** via indexing, partitioning, caching & optimization
 
-#### 🔧 Data Pipelines & Reliability
 
-* 🔄 Implement robust **ETL/ELT pipelines** for large-scale systems
-* ✅ Automated validation & monitoring checks for production data
-* 📊 Increased data reliability by **30–45%**
-* 🚨 Reduced pipeline failures by **50%**
-* 🎯 Achieved **99%+ data consistency** across environments
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
-### 📈 Impact & Achievements
 
-* 🧩 Led **150+ end-to-end ML projects** from collection → deployment
-* 📊 Worked with datasets from **100K to 10M+ records**
-* ⚡ Built inference systems handling **5,000+ requests/minute**
-* 🎯 Improved model performance by **41–45%**
-* 🧮 Reduced prediction errors by **27–40%**
-* 🚀 Cut inference latency by **33%**
-* ⏱️ Reduced time-to-deployment by **47%** by converting research into production within **3–4 weeks**
+
+
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📦 Projects</b></td>
+      <td><b>📜 Language</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🔀 Forks</b></td>
+      <td><b>ℹ️ Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/charlesakinnurun/british-airways-data-science"><b><!--👩‍🏫 -->British Airways</b></a> - flight booking drivers and premium lounge demand forecasting framework</td>
+      <td><img alt="Haskell" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/haskell-beginners-2022/exercises?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/charlesakinnurun/lloyds-banking-group-data-science-and-analytics"><b><!--🌒--> Lloyds Banking Group</b></a><!-- — GitHub in your terminal--></td>
+      <td><img alt="OCaml" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/charlesakinnurun/quantium-data-analytics"><b><!--✨--> Quantium</b></a><!-- — Zero Bullshit Git--></td>
+      <td><img alt="OCaml" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/charlesakinnurun/deloitte-data-analytics"><b><!--🧰--> Deloitte</b></a><!-- — a CLI tool to download other tools from GitHub Releases--></td>
+      <td><img alt="Rust" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 <!--
----
+If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/chshersh) <a href="https://github.com/sponsors/chshersh" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/chshersh" /></a>
 
-### 🤝 Collaboration & Open Source
+You can also find me on other social media:
 
-* 👥 Worked across **engineering, product, and analytics teams** on 25+ projects
-* 🔁 Accelerated experimentation cycles by **39%**
-* 🌐 Contribute to open-source projects and knowledge communities
-
----
-
-### 🎯 Current Focus
-
-* 🤖 Scalable AI systems & intelligent automation
-* 🧠 Production LLM and advanced ML systems
-* ⚙️ Efficient data infrastructure & MLOps pipelines
-
----
-
-### 📫 Let’s Connect
-
-* 💼 Open to collaboration, research, and impactful AI projects
-* 🌟 Always learning, building, and contributing to the ML ecosystem
+* [🔊 𝕏](https://x.com/ChShersh)
+* [⛅️ BlueSky: @chshersh.com](https://bsky.app/profile/chshersh.com)
+* [🐘 Mastodon: @chshersh@functional.cafe](https://functional.cafe/web/@chshersh)
 
 -->
-<!--
-⭐ *Explore my repositories to see real-world ML systems, scalable data pipelines, and production deployments in action!*
--->
+
+---
+
+### My toolbox
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-K8S-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-77ACF1?style=flat-square&logo=seaborn&logoColor=white" />
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1A73E8?style=flat-square&logo=langchain&logoColor=white" />
+  <img alt="Langraph" src="https://img.shields.io/badge/-Langraph-000000?style=flat-square&logo=langraph&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FF9900?style=flat-square&logo=huggingface&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img alt="NLTK" src="https://img.shields.io/badge/-NLTK-4B8BBE?style=flat-square&logo=python&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="OpenNLP" src="https://img.shields.io/badge/-OpenNLP-009639?style=flat-square&logo=apache&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img alt="Julia" src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white" />
+  <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
+  <img alt="LightGBM" src="https://img.shields.io/badge/-LightGBM-00A0E9?style=flat-square&logo=lightgbm&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=white" />
+  <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-5C2D91?style=flat-square&logo=pytest&logoColor=white"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful%20Soup-8B4513?style=flat-square&logo=python&logoColor=white" />
+  <img alt="spaCy" src="https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img alt="XGBoost" src="https://img.shields.io/badge/-XGBoost-AA4A44?style=flat-square&logo=xgboost&logoColor=white" />
+</p>
