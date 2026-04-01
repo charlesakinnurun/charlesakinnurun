@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/charlesakinnurun/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 
 I'm an Applied Data Scientist, AI/ML Engineer and Quantitative Analyst that specializes in machine & deep learning, generative AI, NLP, computer vision, and MLOps. I bring hands-on experience in data science, analytics, and quantitative and statistical modeling, working extensively with tools like PyTorch, Scikit-learn, and AWS to deliver impactful solutions.
 
@@ -16,9 +16,11 @@ Currently studying Computer Science and an active member of the National Associa
 
 I am passionate about designing, training, and deploying intelligent AI and machine learning solutions that deliver meaningful business impact.
 
+
 ---
 
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
 
 <table>
   <thead align="center">
@@ -67,9 +69,12 @@ I am passionate about designing, training, and deploying intelligent AI and mach
   </tbody>
 </table>
 
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<p>
+---
+
+
+
+<div>
   <!-- LANGUAGES -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
@@ -109,4 +114,4 @@ I am passionate about designing, training, and deploying intelligent AI and mach
   <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FF9900?style=flat-square&logo=huggingface&logoColor=white" />
   <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-5C2D91?style=flat-square&logo=pytest&logoColor=white"/>
   <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
-</p>
+</div>
