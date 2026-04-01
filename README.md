@@ -73,6 +73,7 @@ I am passionate about designing, training, and deploying intelligent AI and mach
 ---
 
 
+### Area of Expertise
 
 <div>
   <!-- LANGUAGES -->
