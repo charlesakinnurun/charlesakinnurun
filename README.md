@@ -36,7 +36,7 @@ I am passionate about designing, training, and deploying intelligent AI and mach
   <tbody>
     <tr>
       <td><a href="https://github.com/charlesakinnurun/british-airways-data-science"><b>British Airways</b></a> - flight booking drivers and premium lounge demand forecasting framework</td>
-      <td><img alt="Haskell" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/haskell-beginners-2022/exercises?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
@@ -44,7 +44,7 @@ I am passionate about designing, training, and deploying intelligent AI and mach
     </tr>
     <tr>
       <td><a href="https://github.com/charlesakinnurun/lloyds-banking-group-data-science-and-analytics"><b>Lloyds Banking Group</b></a> - project in progress</td>
-      <td><img alt="OCaml" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
@@ -60,8 +60,8 @@ I am passionate about designing, training, and deploying intelligent AI and mach
     </tr> -->
     <tr>
       <td><a href="https://github.com/charlesakinnurun/deloitte-data-analytics"><b>Deloitte</b></a> - project in progress</td>
-      <td><img alt="Rust" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/github-tui?style=flat-square&labelColor=343b41""/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/tool-sync?style=flat-square&labelColor=343b41"/></td>
