@@ -8,7 +8,7 @@
 
 
 
-I'm an Applied Data Scientist, AI/ML Engineer and Computer Science Undergrad that specializes in machine & deep learning, generative AI, NLP, computer vision, and MLOps. I bring hands-on experience in data science, quantitative analysis, predictive and statistical modeling, working extensively with tools like PyTorch, Scikit-learn, and AWS to deliver impactful solutions.
+Applied Data Scientist and AI/ML Engineer focused on building production-ready machine learning systems. Experienced in developing and deploying models across NLP, computer vision, and generative AI, with a strong emphasis on scalability and real-world impact. Proficient in PyTorch, Scikit-learn, and AWS, with hands-on experience in MLOps, predictive modeling, and statistical analysis to drive data-informed decision-making.
 
 Over the past four years, I have gained extensive experience in both imperative and declarative programming, working with Python, R, and SQL across diverse industries, including technology, finance, consulting, aviation, and healthcare.
 
