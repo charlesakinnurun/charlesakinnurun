@@ -1,3 +1,4 @@
+<!--
 ## Hi there, I'm Charles (he/him) 👋
 
 <p align="center">
@@ -116,3 +117,4 @@ I am passionate about designing, training, and deploying intelligent AI and mach
   <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-5C2D91?style=flat-square&logo=pytest&logoColor=white"/>
   <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
 </div>
+-->
