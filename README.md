@@ -1,4 +1,4 @@
-## Hi there, I'm Charles Akinnurun (he/him) 👋
+## Hi there, I'm Charles (he/him) 👋
 
 <p align="center">
   <a href="https://www.linkedin.com/in/charlesakinnurun/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
