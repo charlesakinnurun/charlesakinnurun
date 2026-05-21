@@ -49,14 +49,14 @@ I am passionate about designing, training, and deploying intelligent AI and mach
       <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/github-tui?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <!-- <tr>
-      <td><a href="https://github.com/charlesakinnurun/quantium-data-analytics"><b>Quantium</b></a></td>
+    <tr>
+      <td><a href="https://github.com/charlesakinnurun/quantium-data-analytics"><b>Quantium</b></a> - project in progress</td>
       <td><img alt="OCaml" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chshersh/zbg?style=flat-square&labelColor=343b41"/></td>
-    </tr> -->
+    </tr>
     <tr>
       <td><a href="https://github.com/charlesakinnurun/deloitte-data-analytics"><b>Deloitte</b></a> - project in progress</td>
       <td><img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /></td>
