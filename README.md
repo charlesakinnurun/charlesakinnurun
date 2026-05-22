@@ -1,12 +1,13 @@
 ## Hi there, I'm Charles <!--(he/him)--> 👋
 
+<!--
 <p align="center">
   <a href="https://www.linkedin.com/in/charlesakinnurun/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
   <a href="mailto:charlesakinnurun@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/charlesakinnurun/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-
+-->
 
 Applied Data Scientist and AI/ML Engineer focused on building production-ready machine learning systems. Experienced in developing and deploying models across NLP, computer vision, and generative AI, with a strong emphasis on scalability and real-world impact. Proficient in PyTorch, Scikit-learn, and AWS, with hands-on experience in MLOps, predictive modeling, and statistical analysis to drive data-informed decision-making.
 
