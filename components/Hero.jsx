@@ -50,7 +50,7 @@ function ProfileCard() {
       </div>
       <h2 className="text-2xl md:text-3xl font-bold mb-4 text-white">Charles Akinnurun</h2>
       <p className="text-gray-400 text-sm md:text-base mb-6">
-        Machine Learning Engineer - AWS AI/ML Scholar '26
+        Machine Learning Engineer - AWS AI/ML Scholar &apos;26
       </p>
       <div className="flex justify-center gap-4">
         <SocialIcon
