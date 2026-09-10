@@ -17,6 +17,13 @@ const projects = [
     description: "Completed the AWS AI & ML Scholars project on analyzing data with AI in Amazon PartyRock, turning prompts and datasets into an interactive app.",
     image: "/aws-partyrock-analyze-data.webp",
     tags: ["AWS", "PartyRock", "Data Analysis", "Generative AI"],
+  },
+    {
+    title: "Analyze Data using AI with PartyRock",
+    subtitle: "AWS AI & ML Scholars · Udacity",
+    description: "Completed the AWS AI & ML Scholars project on analyzing data with AI in Amazon PartyRock, turning prompts and datasets into an interactive app.",
+    image: "/aws-partyrock-analyze-data.webp",
+    tags: ["AWS", "PartyRock", "Data Analysis", "Generative AI"],
   }
 ]
 
@@ -25,7 +32,7 @@ export default function RecentProjects() {
     <section className="min-h-screen py-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-5xl sm:text-6xl lg:text-5xl font-bold mb-10 text-center bg-gradient-to-r from-white to-zinc-600 text-transparent bg-clip-text">
-          Recent Projects   
+          Featured Projects   
         </h2>
         
         <div className="space-y-12">
@@ -105,14 +112,16 @@ export default function RecentProjects() {
         </div>
 
         <div className="mt-16 text-center">
-          <Button 
-            variant="outline" 
-            size="lg"
-            className="text-black bg-white border-white hover:bg-black hover:text-white transition-colors duration-300"
-          >
-            View All Projects
-            <ArrowUpRight className="ml-2 h-4 w-4" />
-          </Button>
+          <Link href="/projects">
+            <Button 
+              variant="outline" 
+              size="lg"
+              className="text-black bg-white border-white hover:bg-black hover:text-white transition-colors duration-300"
+            >
+              View All Projects
+              <ArrowUpRight className="ml-2 h-4 w-4" />
+            </Button>
+          </Link>
         </div>
       </div>
     </section>
