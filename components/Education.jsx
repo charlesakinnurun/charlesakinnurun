@@ -6,15 +6,37 @@ const portfolioItems = [
   {
     name: "Bachelor of Computer Science",
     description: "Lagos State University of Education",
-    year: "2023-2027",  
-    icon: "/lasued.jpg",
+    //year: "2023-2027",  
+    icon: "/lasued_icon.jpg",
     url: "https://lasued.edu.ng/web/"
+  },
+    {
+    name: "Future AWS AI Programmer",
+    description: "Udacity",
+    //year: "2023-2027",  
+    icon: "/udacity_logo.jpg",
+    url: "https://www.udacity.com/"
+  },
+    {
+    name: "AWS AI/ML Practictioner Challenge",
+    description: "Udacity",
+    //year: "2023-2027",  
+    icon: "/udacity_logo.jpg",
+    url: "https://www.udacity.com/"
+  },
+    {
+    name: "Aspire Leaders Program",
+    description: "Aspire Institute",
+    //year: "2023-2027",  
+    icon: "/aspire_leaders_program_logo.jpg",
+    url: "https://www.aspireleaders.org/"
   },
   {
     name: "Secondary School Certificate Examination",
     description: "Penny International College",
-    year: "2016-2022",  
-    icon: "/penny-international-college.jpg",
+    //year: "2016-2022",  
+    //icon: "/penny-international-college.jpg",
+    icon: "/penny_icon.png",
     url: "https://www.pennyinernationalcollege.com/"
   },
  
