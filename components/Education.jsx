@@ -1,80 +1,50 @@
-import { Card } from "@/components/ui/card"
+'use client'
+
+import { useState } from 'react'
 import Link from "next/link"
-import Image from "next/image"
+import { ArrowRight } from 'lucide-react'
+import { Button } from "@/components/ui/button"
+import EducationCard from "@/components/EducationCard"
+import EducationModal from "@/components/EducationModal"
+import { education } from "@/data/education"
 
-const portfolioItems = [
-  {
-    name: "Bachelor of Computer Science",
-    description: "Lagos State University of Education",
-    //year: "2023-2027",  
-    icon: "/lasued_icon.jpg",
-    url: "https://lasued.edu.ng/web/"
-  },
-    {
-    name: "Future AWS AI Programmer",
-    description: "Udacity",
-    //year: "2023-2027",  
-    icon: "/udacity_logo.jpg",
-    url: "https://www.udacity.com/"
-  },
-    {
-    name: "AWS AI/ML Practictioner Challenge",
-    description: "Udacity",
-    //year: "2023-2027",  
-    icon: "/udacity_logo.jpg",
-    url: "https://www.udacity.com/"
-  },
-    {
-    name: "Aspire Leaders Program",
-    description: "Aspire Institute",
-    //year: "2023-2027",  
-    icon: "/aspire_leaders_program_logo.jpg",
-    url: "https://www.aspireleaders.org/"
-  },
-  {
-    name: "Secondary School Certificate Examination",
-    description: "Penny International College",
-    //year: "2016-2022",  
-    //icon: "/penny-international-college.jpg",
-    icon: "/penny_icon.png",
-    url: "https://www.pennyinernationalcollege.com/"
-  },
- 
-]
+const PREVIEW_COUNT = 3
 
-export default function PortfolioCards() {
+export default function EducationSection() {
+  const [selectedEducation, setSelectedEducation] = useState(null)
+
   return (
-    <div className="w-full max-w-[60rem] mx-auto space-y-4 p-4">
-      <h2 className="text-4xl sm:text-6xl lg:text-5xl font-bold mb-10 text-center bg-gradient-to-r from-white to-zinc-600 text-transparent bg-clip-text">
-     Education
+    <section id="education" className="py-20 px-4 sm:px-6 lg:px-8 text-zinc-300">
+      <div className="max-w-4xl mx-auto">
+        <h2 className="text-4xl sm:text-6xl lg:text-5xl font-bold mb-10 text-center bg-gradient-to-r from-white to-zinc-600 text-transparent bg-clip-text">
+          Education
         </h2>
-      {portfolioItems.map((item) => (
-        <Link 
-          key={item.name}
-          href={item.url}
-          className="block transition-transform hover:scale-[1.02]"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Card className="p-6 bg-transparent hover:bg-[#242424] border-zinc-800 flex items-center justify-between">
-            <div className="flex items-center gap-6">
-              <div className="relative w-[60px] h-[60px]">
-                <Image
-                  src={item.icon}
-                  alt={`${item.description} logo`}
-                  fill
-                  className="object-contain rounded-lg"
-                />
-              </div>
-              <div>
-                <h2 className="text-xl font-semibold text-white">{item.name}</h2>
-                <p className="text-zinc-400">{item.description}</p>
-              </div>
-            </div>
-            <span className="text-zinc-500">{item.year}</span>
-          </Card>
-        </Link>
-      ))}
-    </div>
+
+        <EducationCard
+          entries={education.slice(0, PREVIEW_COUNT)}
+          onSelect={setSelectedEducation}
+        />
+
+        <div className="mt-12 text-center">
+          <Link href="/education">
+            <Button
+              variant="outline"
+              size="lg"
+              className="text-black bg-white border-white hover:bg-black hover:text-white transition-colors duration-300"
+            >
+              View All Education
+              <ArrowRight className="ml-2 h-4 w-4" />
+            </Button>
+          </Link>
+        </div>
+      </div>
+
+      {selectedEducation && (
+        <EducationModal
+          education={selectedEducation}
+          onClose={() => setSelectedEducation(null)}
+        />
+      )}
+    </section>
   )
 }
