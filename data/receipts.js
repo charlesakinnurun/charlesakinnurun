@@ -12,10 +12,10 @@ export const receipts = [
   },
   {
     id: 2,
-    image: "/receipts/aws-ai-ml-scholarship.jpg",
+    image: "/aws_challenge_completion.jpg",
     alt: "AWS AI & ML Scholarship certificate",
     title: "AWS AI & ML Scholarship",
-    organization: "Amazon Web Services",
+    organization: "AWS X Udacity",
     date: "2026",
     description:
       "Awarded the AWS AI & ML Scholarship for demonstrating potential in artificial intelligence and machine learning.",
@@ -64,5 +64,5 @@ export const receipts = [
     description:
       "Designed and shipped a first AI productivity application using generative AI tools as part of the AWS AI & ML Scholars program.",
     category: "Project",
-  },
+  }
 ];
