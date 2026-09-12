@@ -1,6 +1,7 @@
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
 import Projects from "@/components/Projects";
+import OpenSource from "@/components/OpenSource";
 import Education from "@/components/Education";
 import Certifications from "@/components/Certifications";
 import Receipts from "@/components/Receipts";
@@ -14,6 +15,7 @@ export default function Home() {
    <Education/>
    <Receipts/>
    <Projects/>
+   <OpenSource/>
    <Certifications/>
    {/* <Programming/> */}
    <ContactForm/>
