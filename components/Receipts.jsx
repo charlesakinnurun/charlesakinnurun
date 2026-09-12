@@ -282,13 +282,13 @@ export default function Receipts() {
     <section id="receipts" className="py-20 px-4 sm:px-6 lg:px-8">
       <div ref={sectionRef} className="receipt-reveal max-w-5xl mx-auto">
         <h2 className="text-4xl sm:text-6xl lg:text-5xl font-bold mb-4 text-center bg-gradient-to-r from-white to-zinc-600 text-transparent bg-clip-text">
-          Receipts
+          Achievements
         </h2>
 
-        <p className="text-zinc-400 text-center max-w-2xl mx-auto mb-12 text-sm sm:text-base">
+        {/*<p className="text-zinc-400 text-center max-w-2xl mx-auto mb-12 text-sm sm:text-base">
           Visual proof of certifications, programs, achievements, and work
           I&apos;ve completed.
-        </p>
+        </p>*/}
 
         <div
           ref={trackRef}
