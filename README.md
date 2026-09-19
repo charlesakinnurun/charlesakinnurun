@@ -56,6 +56,46 @@ I am passionate about designing, training, and deploying intelligent AI and mach
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/charlesakinnurun/codealpha-emotion-recognition-from-speech-"><b>Emotion Recognition from Speech</b></a></td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/haskell-beginners-2022/exercises?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/charlesakinnurun/codealpha-credit-scoring-model-"><b>Credit Scoring Model</b></a></td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/haskell-beginners-2022/exercises?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/charlesakinnurun/codealpha-student-management-system"><b>Student Management System</b></a></td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/haskell-beginners-2022/exercises?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/charlesakinnurun/codealpha-banking-system"><b>Banking System</b></a></td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/haskell-beginners-2022/exercises?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/charlesakinnurun/codealpha-handwritten-character-recognition-"><b>Handwritten Character Recogniton</b></a></td>
+      <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/haskell-beginners-2022/exercises?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/charlesakinnurun/british-airways-data-science"><b>British Airways</b></a></td>
       <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/haskell-beginners-2022/course-plan?style=flat-square&labelColor=343b41"/></td>
