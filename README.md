@@ -162,10 +162,76 @@ I am passionate about designing, training, and deploying intelligent AI and mach
   </tbody>
 </table>
 
+## 🌐 Open Source Contributions
 
+This section showcases my contributions to open-source software and collaborative engineering — from merged pull requests and issue reports to feature work across machine learning, deep learning, and data science.
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📦 Repository</b></td>
+      <td><b>⚙️ Contribution</b></td>
+      <td><b>🧠 Area</b></td>
+      <td><b>📌 Type</b></td>
+      <td><b>✅ Status</b></td>
+      <td><b>🔗 PR / Issue</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="16%"><a href="https://github.com/firstcontributions/first-contributions"><b>first-contributions</b></a></td>
+      <td width="40%">Merged my entry into the project's contributor list, completing a verified end-to-end GitHub contribution workflow (fork → branch → pull request → merge).</td>
+      <td align="center" width="12%">Open Source</td>
+      <td align="center" width="11%">Pull Request</td>
+      <td align="center" width="8%">Merged</td>
+      <td align="center" width="13%"><a href="https://github.com/firstcontributions/first-contributions/pull/111986">#111986</a></td>
+    </tr>
+    <tr>
+      <td width="16%"><a href="https://github.com/Puliczek/github-achievements-academy"><b>github-achievements-academy</b></a></td>
+      <td width="40%">Opened a Quickdraw-labelled issue to practise issue creation and triage, then closed it as part of the GitHub Achievements challenge.</td>
+      <td align="center" width="12%">Open Source</td>
+      <td align="center" width="11%">Issue</td>
+      <td align="center" width="8%">Closed</td>
+      <td align="center" width="13%"><a href="https://github.com/Puliczek/github-achievements-academy/issues/5814">#5814</a></td>
+    </tr>
+    <tr>
+      <td width="16%"><i>Required: repository name + link</i></td>
+      <td width="40%"><i>Required: what you changed (e.g. "Implemented a configurable PyTorch training loop with checkpointing")</i></td>
+      <td align="center" width="12%"><i>Deep Learning</i></td>
+      <td align="center" width="11%"><i>Pull Request</i></td>
+      <td align="center" width="8%"><i>—</i></td>
+      <td align="center" width="13%"><i>Required: PR/Issue link</i></td>
+    </tr>
+    <tr>
+      <td width="16%"><i>Required: repository name + link</i></td>
+      <td width="40%"><i>Required: what you changed (e.g. "Added a transformer-based text classifier with evaluation metrics")</i></td>
+      <td align="center" width="12%"><i>NLP / LLMs</i></td>
+      <td align="center" width="11%"><i>Feature</i></td>
+      <td align="center" width="8%"><i>—</i></td>
+      <td align="center" width="13%"><i>Required: PR/Issue link</i></td>
+    </tr>
+    <tr>
+      <td width="16%"><i>Required: repository name + link</i></td>
+      <td width="40%"><i>Required: what you changed (e.g. "Extended a detection pipeline with data augmentation for improved recall")</i></td>
+      <td align="center" width="12%"><i>Computer Vision</i></td>
+      <td align="center" width="11%"><i>Bug Fix</i></td>
+      <td align="center" width="8%"><i>—</i></td>
+      <td align="center" width="13%"><i>Required: PR/Issue link</i></td>
+    </tr>
+    <tr>
+      <td width="16%"><i>Required: repository name + link</i></td>
+      <td width="40%"><i>Required: what you changed (e.g. "Added CI/CD and test coverage for the training pipeline")</i></td>
+      <td align="center" width="12%"><i>MLOps / Testing</i></td>
+      <td align="center" width="11%"><i>Feature</i></td>
+      <td align="center" width="8%"><i>—</i></td>
+      <td align="center" width="13%"><i>Required: PR/Issue link</i></td>
+    </tr>
+  </tbody>
+</table>
+
+_Placeholder rows are marked above — fill in the repository link, a one-line description of what you changed, and the PR/issue link for each contribution you want to add._
 
 ---
-
 
 ### Technical Skills 
 
