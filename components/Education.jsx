@@ -1,18 +1,12 @@
-'use client'
-
-import { useState } from 'react'
 import Link from "next/link"
 import { ArrowRight } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import EducationCard from "@/components/EducationCard"
-import EducationModal from "@/components/EducationModal"
 import { education } from "@/data/education"
 
 const PREVIEW_COUNT = 3
 
 export default function EducationSection() {
-  const [selectedEducation, setSelectedEducation] = useState(null)
-
   return (
     <section id="education" className="py-20 px-4 sm:px-6 lg:px-8 text-zinc-300">
       <div className="max-w-4xl mx-auto">
@@ -22,7 +16,6 @@ export default function EducationSection() {
 
         <EducationCard
           entries={education.slice(0, PREVIEW_COUNT)}
-          onSelect={setSelectedEducation}
         />
 
         <div className="mt-12 text-center">
@@ -38,13 +31,6 @@ export default function EducationSection() {
           </Link>
         </div>
       </div>
-
-      {selectedEducation && (
-        <EducationModal
-          education={selectedEducation}
-          onClose={() => setSelectedEducation(null)}
-        />
-      )}
     </section>
   )
 }
