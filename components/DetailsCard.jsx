@@ -25,10 +25,29 @@ function CardItem({ presentation, onSelect }) {
               {presentation.title}
             </h3>
           </div>
-          <p className="text-zinc-400">{presentation.line}</p>
+          <div className="flex flex-wrap items-center gap-2">
+            {presentation.type && (
+              <span className="px-2.5 py-1 text-xs font-medium text-purple-300 bg-purple-900/30 border border-purple-500/30 rounded-full transition-colors duration-300 hover:bg-purple-800/50">
+                {presentation.type}
+              </span>
+            )}
+            <p className="text-zinc-400">{presentation.line}</p>
+          </div>
           <p className="text-sm sm:text-base text-zinc-300">
             {presentation.description}
           </p>
+          {presentation.skills?.length > 0 && (
+            <div className="flex flex-wrap gap-2">
+              {presentation.skills.slice(0, 6).map((skill, index) => (
+                <span
+                  key={index}
+                  className="px-2 py-1 text-xs text-purple-300 bg-purple-900/30 rounded-full transition-colors duration-300 hover:bg-purple-800/50"
+                >
+                  {skill}
+                </span>
+              ))}
+            </div>
+          )}
         </div>
 
         <span className="inline-flex items-center gap-1 shrink-0 text-sm font-semibold text-purple-400 mt-6 opacity-0 translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-300">
