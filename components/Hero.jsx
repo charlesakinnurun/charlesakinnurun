@@ -49,7 +49,7 @@ function ProfileCard() {
     <div className="bg-[#242424] rounded-3xl p-6 shadow-lg">
       <div className="aspect-square rounded-2xl overflow-hidden bg-[orange] mb-6">
         <Image
-          src="/profile.jpg"
+          src="/charles_akinnurun.png"
           alt="Charles Akinnurun"
           width={400}
           height={400}
