@@ -2,8 +2,6 @@ import {
   BookOpen,
   Building2,
   CheckCircle2,
-  Clock,
-  Github,
   GraduationCap,
   MapPin,
   Medal,
@@ -14,9 +12,7 @@ import DetailsModal from "@/components/DetailsModal"
 
 function educationContent(edu) {
   const meta = []
-  if (edu.duration) meta.push({ Icon: Clock, text: edu.duration, iconClass: "text-purple-400" })
   if (edu.location) meta.push({ Icon: MapPin, text: edu.location, iconClass: "text-purple-400" })
-  if (edu.remote) meta.push({ Icon: Rocket, text: "Remote", iconClass: "text-emerald-400" })
   if (edu.grade) meta.push({ Icon: Trophy, text: edu.grade, iconClass: "text-amber-400" })
 
   const lists = []
@@ -61,15 +57,12 @@ function educationContent(edu) {
 
   const links = []
   if (edu.links?.website) links.push({ Icon: Building2, label: "Institution Website", href: edu.links.website })
-  if (edu.links?.project) links.push({ Icon: Rocket, label: "Project", href: edu.links.project })
-  if (edu.links?.github) links.push({ Icon: Github, label: "GitHub", href: edu.links.github })
-  if (edu.links?.certificate) links.push({ Icon: Medal, label: "Certificate", href: edu.links.certificate })
 
   return {
     label: edu.field,
     title: edu.institution,
     subtitle: edu.degree,
-    image: edu.image,
+    image: edu.logo || edu.image,
     imageAlt: edu.institution,
     meta,
     description: edu.description,
@@ -79,8 +72,8 @@ function educationContent(edu) {
   }
 }
 
-export default function EducationModal({ education, onClose }) {
+export default function EducationModal({ edu, onClose }) {
   return (
-    <DetailsModal content={educationContent(education)} onClose={onClose} />
+    <DetailsModal content={educationContent(edu)} onClose={onClose} />
   )
 }
