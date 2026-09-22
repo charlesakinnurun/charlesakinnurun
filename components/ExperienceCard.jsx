@@ -8,6 +8,8 @@ const present = (exp) => ({
   subtitle: exp.role,
   line: `${exp.role} | ${exp.period}`,
   description: exp.description,
+  type: exp.type,
+  skills: exp.skills,
 })
 
 export default function ExperienceCard({ title, experiences, onSelect }) {
