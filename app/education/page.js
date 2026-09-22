@@ -2,7 +2,6 @@
 
 import { useState } from 'react'
 import EducationCard from "@/components/EducationCard"
-import EducationModal from "@/components/EducationModal"
 import Pagination from "@/components/Pagination"
 import { education } from "@/data/education"
 
@@ -10,7 +9,6 @@ const EDUCATION_PER_PAGE = 6
 
 export default function EducationPage() {
   const [currentPage, setCurrentPage] = useState(1)
-  const [selectedEducation, setSelectedEducation] = useState(null)
 
   const totalPages = Math.ceil(education.length / EDUCATION_PER_PAGE)
   const startIndex = (currentPage - 1) * EDUCATION_PER_PAGE
@@ -29,7 +27,6 @@ export default function EducationPage() {
         <div key={currentPage} className="animate-in fade-in duration-300">
           <EducationCard
             entries={paginatedEducation}
-            onSelect={setSelectedEducation}
           />
         </div>
 
@@ -39,13 +36,6 @@ export default function EducationPage() {
           onPageChange={setCurrentPage}
         />
       </div>
-
-      {selectedEducation && (
-        <EducationModal
-          education={selectedEducation}
-          onClose={() => setSelectedEducation(null)}
-        />
-      )}
     </section>
   )
 }
