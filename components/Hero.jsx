@@ -140,10 +140,13 @@ function MainContent() {
 <p className='text-left mb-3'>GitHub Stats</p>
 
 <div className="mt-3" style={{ textAlign: "center" }}>
-  <img
+  <Image
     src="https://ghchart.rshah.org/421d61/charlesakinnurun"
     alt="GitHub Contribution Graph"
-    className='w-full'
+    width={800}
+    height={140}
+    className="w-full h-auto"
+    unoptimized
   />
 </div>
 
