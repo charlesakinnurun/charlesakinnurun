@@ -5,7 +5,8 @@ import { ArrowUpRight, Github } from 'lucide-react'
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import Pagination from "@/components/Pagination"
-import Image from 'next/image'
+import ProjectCardMedia from "@/components/ProjectCardMedia"
+import ProjectModal from "@/components/ProjectModal"
 
 const PROJECTS_PER_PAGE = 6
 
@@ -256,6 +257,7 @@ const projects = [
 
 export default function Projects() {
   const [currentPage, setCurrentPage] = useState(1)
+  const [selected, setSelected] = useState(null)
 
   const totalPages = Math.ceil(projects.length / PROJECTS_PER_PAGE)
   const startIndex = (currentPage - 1) * PROJECTS_PER_PAGE
@@ -270,15 +272,13 @@ export default function Projects() {
         <div key={currentPage} className="space-y-12 animate-in fade-in duration-300">
           {paginatedProjects.map((project, index) => (
             <div key={index} className="group flex flex-col md:flex-row bg-zinc-900 rounded-2xl overflow-hidden transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/20">
-                <div className="relative h-56 w-full shrink-0 md:h-auto md:min-h-[320px] md:w-2/5">
-                <Image 
-                 src={project.image}
-                 alt={project.title}
-                  className="object-cover"
-                  fill
+                <ProjectCardMedia
+                  project={project}
+                  onSelect={() => setSelected(project)}
+                  className="h-56 w-full shrink-0 md:h-auto md:min-h-[320px] md:w-2/5"
+                  imageClassName="object-cover"
                   sizes="(max-width: 768px) 100vw, 40vw"
                 />
-              </div>
               
               <div className="md:w-[90%] p-6 md:p-8 flex flex-col justify-between">
                 <div>
@@ -349,6 +349,13 @@ export default function Projects() {
         />
 
       </div>
+
+      {selected && (
+        <ProjectModal
+          project={selected}
+          onClose={() => setSelected(null)}
+        />
+      )}
     </section>
   )
 }
