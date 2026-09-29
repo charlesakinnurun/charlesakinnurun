@@ -15,12 +15,12 @@ export default function Home() {
   return (
    <div className = "bg-[#151312]">
    <Hero/>
+   <Education/>
    <Projects/>
    <Experience/>
    <OpenSource/>
    <Certifications/>
    <Receipts/>
-   <Education/>
     <Research/>
     <Conversations/>
     {/* <Programming/> */}
