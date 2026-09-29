@@ -1,33 +1,39 @@
+'use client'
+
+import { useState } from 'react'
 import { ArrowUpRight, Github } from 'lucide-react'
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import Image from 'next/image'
+import ProjectCardMedia from "@/components/ProjectCardMedia"
+import ProjectModal from "@/components/ProjectModal"
 
 const projects = [
   {
     title: "Build your first AI productivity app",
     subtitle: "AWS AI & ML Scholars · Udacity",
     description: "Completed the AWS AI & ML Scholars project to design and ship a first AI productivity application using generative AI tools.",
-    image: "/aws-ai-productivity-app.webp",
+    images: ["/aws-ai-productivity-app.webp"],
     tags: ["AWS", "Generative AI", "Udacity", "AI Productivity"],
   },
   {
     title: "Analyze Data using AI with PartyRock",
     subtitle: "AWS AI & ML Scholars · Udacity",
     description: "Completed the AWS AI & ML Scholars project on analyzing data with AI in Amazon PartyRock, turning prompts and datasets into an interactive app.",
-    image: "/aws-partyrock-analyze-data.webp",
+    images: ["/aws-partyrock-analyze-data.webp"],
     tags: ["AWS", "PartyRock", "Data Analysis", "Generative AI"],
   },
     {
     title: "Analyze Data using AI with PartyRock",
     subtitle: "AWS AI & ML Scholars · Udacity",
     description: "Completed the AWS AI & ML Scholars project on analyzing data with AI in Amazon PartyRock, turning prompts and datasets into an interactive app.",
-    image: "/aws-partyrock-analyze-data.webp",
+    images: ["/aws-partyrock-analyze-data.webp"],
     tags: ["AWS", "PartyRock", "Data Analysis", "Generative AI"],
   }
 ]
 
 export default function RecentProjects() {
+  const [selected, setSelected] = useState(null)
+
   return (
     <section className="min-h-screen py-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
@@ -38,15 +44,15 @@ export default function RecentProjects() {
         <div className="space-y-12">
           {projects.map((project, index) => (
             <div key={index} className="group flex flex-col md:flex-row bg-zinc-900 rounded-2xl overflow-hidden transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/20">
-              <div className="md:w-2/5 relative min-h-[220px]">
-                <Image 
-                 src={project.image}
-                 alt={project.title}
-                 className="object-cover w-full h-full"
-                 width={800}
-                 height={600}
-                />
-              </div>
+              <ProjectCardMedia
+                project={project}
+                onSelect={() => setSelected(project)}
+                className="md:w-2/5 min-h-[220px]"
+                imageClassName="object-cover w-full h-full"
+                fill={false}
+                width={800}
+                height={600}
+              />
               
               <div className="md:w-[90%] p-6 md:p-8 flex flex-col justify-between">
                 <div>
@@ -124,6 +130,13 @@ export default function RecentProjects() {
           </Link>
         </div>
       </div>
+
+      {selected && (
+        <ProjectModal
+          project={selected}
+          onClose={() => setSelected(null)}
+        />
+      )}
     </section>
   )
 }
