@@ -50,7 +50,7 @@ export const experiences = [
   {
     id: "flyrank-machine-learning-engineering",
     company: "FlyRank AI",
-    role: "Machine Learning Engineering Interm",
+    role: "Machine Learning Engineering Intern",
     type: "Internship",
     period: "June 2026 - Present",
     duration: "Ongoing",
