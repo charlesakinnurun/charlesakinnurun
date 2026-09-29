@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import Pagination from "@/components/Pagination"
-import ProjectCard from "@/components/ProjectCard"
+import ProjectCard, { PROJECT_CARD_MEDIA_CLASSNAME } from "@/components/ProjectCard"
 import ProjectModal from "@/components/ProjectModal"
 import { projects } from "@/data/projects"
 
@@ -28,7 +28,7 @@ export default function Projects() {
               key={project.id ?? project.title}
               project={project}
               onSelect={() => setSelected(project)}
-              mediaClassName="h-56 w-full shrink-0 md:h-auto md:min-h-[320px] md:w-2/5"
+              mediaClassName={PROJECT_CARD_MEDIA_CLASSNAME}
               showDifficulty
             />
           ))}
