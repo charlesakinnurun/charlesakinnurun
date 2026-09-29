@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button"
 import ExperienceCard from "@/components/ExperienceCard"
 import { experiences } from "@/data/experience"
 
-const PREVIEW_COUNT = 4
+const PREVIEW_COUNT = 5
 
 export default function Experience() {
   const previewExperiences = experiences.slice(0, PREVIEW_COUNT)
