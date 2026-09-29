@@ -55,12 +55,9 @@ export default function ProjectCardMedia({
   const [active, setActive] = useState(0)
   const [paused, setPaused] = useState(false)
   const [failed, setFailed] = useState(() => [])
-  const [reduceMotion] = useState(
-    () =>
-      typeof window !== 'undefined' &&
-      typeof window.matchMedia === 'function' &&
-      window.matchMedia('(prefers-reduced-motion: reduce)').matches
-  )
+  // Render-phase must stay SSR-clean: detect reduced motion in an effect so
+  // server and initial client output always match.
+  const [reduceMotion, setReduceMotion] = useState(false)
   const pointerStart = useRef(null)
   const suppressClick = useRef(false)
 
@@ -74,6 +71,16 @@ export default function ProjectCardMedia({
     pointerStart.current = null
     suppressClick.current = false
   }, [imageKey])
+
+  useEffect(() => {
+    if (
+      typeof window !== 'undefined' &&
+      typeof window.matchMedia === 'function' &&
+      window.matchMedia('(prefers-reduced-motion: reduce)').matches
+    ) {
+      setReduceMotion(true)
+    }
+  }, [])
 
   // Autoplay slideshow: advance until unmount, pause while hovered.
   // Each card instance owns its timer, so simultaneous cards stay independent.
