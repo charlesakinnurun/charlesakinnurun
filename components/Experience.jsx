@@ -1,18 +1,14 @@
 'use client'
 
-import { useState } from 'react'
 import Link from 'next/link'
 import { ArrowRight } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import ExperienceCard from "@/components/ExperienceCard"
-import ExperienceModal from "@/components/ExperienceModal"
 import { experiences } from "@/data/experience"
 
-const PREVIEW_COUNT = 3
+const PREVIEW_COUNT = 4
 
 export default function Experience() {
-  const [selectedExperience, setSelectedExperience] = useState(null)
-
   const previewExperiences = experiences.slice(0, PREVIEW_COUNT)
 
   return (
@@ -25,7 +21,6 @@ export default function Experience() {
         <ExperienceCard
           experiences={previewExperiences}
           title=""
-          onSelect={setSelectedExperience}
         />
 
         <div className="mt-12 text-center">
@@ -41,13 +36,6 @@ export default function Experience() {
           </Link>
         </div>
       </div>
-
-      {selectedExperience && (
-        <ExperienceModal
-          experience={selectedExperience}
-          onClose={() => setSelectedExperience(null)}
-        />
-      )}
     </section>
   )
 }
