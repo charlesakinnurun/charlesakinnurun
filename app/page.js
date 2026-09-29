@@ -6,6 +6,7 @@ import OpenSource from "@/components/OpenSource";
 import Education from "@/components/Education";
 import Certifications from "@/components/Certifications";
 import Research from "@/components/Research";
+import Conversations from "@/components/Conversations";
 import Receipts from "@/components/Receipts";
 import Programming from "@/components/Programming";
 import ContactForm from "@/components/ContactForm";
@@ -20,8 +21,9 @@ export default function Home() {
    <Certifications/>
    <Receipts/>
    <Education/>
-   <Research/>
-   {/* <Programming/> */}
+    <Research/>
+    <Conversations/>
+    {/* <Programming/> */}
    <ContactForm/>
    
    </div>
