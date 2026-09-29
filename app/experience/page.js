@@ -9,7 +9,7 @@ import {
   volunteeringExperiences,
 } from "@/data/experience"
 
-const EXPERIENCES_PER_PAGE = 4
+const EXPERIENCES_PER_PAGE = 5
 
 export default function ExperienceSection() {
   const [currentPage, setCurrentPage] = useState(1)
@@ -22,7 +22,7 @@ export default function ExperienceSection() {
   )
 
   return (
-    <section className="w-full min-h-screen bg-transparent text-white py-10 px-4 sm:px-6 lg:px-8 flex items-center justify-center">
+    <section className="min-h-screen bg-transparent text-white py-10 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
       <h2 className="text-5xl sm:text-6xl lg:text-5xl font-bold mb-10 text-center bg-gradient-to-r from-white to-zinc-600 text-transparent bg-clip-text">
            Experience
@@ -44,7 +44,7 @@ export default function ExperienceSection() {
         </div>
 
         <div className="mt-20">
-          <ExperienceCard experiences={volunteeringExperiences} title="Volunteering" />
+          <ExperienceCard experiences={volunteeringExperiences} title="Organization" />
         </div>
       </div>
     </section>
