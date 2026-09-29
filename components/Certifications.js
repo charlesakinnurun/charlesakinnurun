@@ -3,7 +3,7 @@ import { certifications } from "@/data/certifications";
 import CertificationCard from "@/components/CertificationCard";
 
 export default function Certifications() {
-  const displayCertifications = certifications.slice(0, 5);
+  const displayCertifications = certifications.slice(0, 3);
 
   return (
     <section id="certifications" className="py-20 px-4 sm:px-6 lg:px-8">
