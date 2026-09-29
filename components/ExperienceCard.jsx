@@ -28,6 +28,8 @@ function LogoBox({ logo, company }) {
 /**
  * Minimal static experience list: logo, company, role, period.
  * Deliberately non-interactive — no hover effects, no click, no modal.
+ * Every card is a fixed, uniform size: all text lines truncate to one line
+ * and a min-height guard covers entries missing optional fields.
  */
 export default function ExperienceCard({ title, experiences }) {
   return (
@@ -40,24 +42,24 @@ export default function ExperienceCard({ title, experiences }) {
         return (
           <div
             key={exp.id}
-            className="bg-zinc-900 light:bg-white light:ring-1 light:ring-zinc-900/10 light:shadow-sm rounded-lg p-5 sm:p-6"
+            className="bg-zinc-900 light:bg-white light:ring-1 light:ring-zinc-900/10 light:shadow-sm rounded-lg p-5 sm:p-6 min-h-[120px] sm:min-h-[132px]"
           >
             <div className="flex items-start gap-4 sm:gap-5">
               <LogoBox logo={exp.logo} company={company} />
 
               <div className="flex-1 min-w-0">
-                <h3 className="text-xl sm:text-2xl font-bold text-white light:text-zinc-900 leading-snug">
+                <h3 className="text-xl sm:text-2xl font-bold text-white light:text-zinc-900 leading-snug truncate">
                   {company}
                 </h3>
                 {exp.role && (
-                  <p className="mt-0.5 text-sm sm:text-base text-zinc-400 light:text-zinc-600">
+                  <p className="mt-0.5 text-sm sm:text-base text-zinc-400 light:text-zinc-600 truncate">
                     {exp.role}
                   </p>
                 )}
                 {exp.period && (
-                  <p className="mt-1.5 text-sm text-zinc-500 flex items-center gap-1.5">
+                  <p className="mt-1.5 text-sm text-zinc-500 flex items-center gap-1.5 min-w-0">
                     <CalendarDays className="w-3.5 h-3.5 shrink-0" aria-hidden="true" />
-                    {exp.period}
+                    <span className="truncate">{exp.period}</span>
                   </p>
                 )}
               </div>
