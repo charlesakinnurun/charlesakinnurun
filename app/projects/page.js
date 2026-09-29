@@ -22,7 +22,7 @@ export default function Projects() {
       <h2 className="text-4xl sm:text-6xl lg:text-5xl font-bold mb-10 text-center bg-gradient-to-r from-white to-zinc-600 text-transparent bg-clip-text">
            My Projects
           </h2>
-        <div key={currentPage} className="space-y-12 animate-in fade-in duration-300">
+        <div key={currentPage} className="space-y-8 animate-in fade-in duration-300">
           {paginatedProjects.map((project) => (
             <ProjectCard
               key={project.id ?? project.title}
