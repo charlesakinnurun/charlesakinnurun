@@ -12,15 +12,17 @@ const SWIPE_THRESHOLD = 48
  * Shared project card media.
  *
  * Single image (or the legacy `image`) renders exactly as before — static.
- * Multiple images add a subtle, professional layer on top:
+ * Multiple images become an automatic slideshow:
  *
- * - Desktop: hovering the media crossfades through the images every ~2.5s
- *   and returns to the first image when the cursor leaves.
+ * - Cycles through the images every ~2.5s with a smooth crossfade, looping
+ *   back to the first image after the last.
+ * - Hovering the media pauses the slideshow; leaving resumes it.
  * - Touch: horizontal swipe advances/rewinds; a swipe never triggers the
  *   surrounding card's click-to-open behaviour.
  * - Dots bottom-center show position and are tappable/keyboard accessible.
- * - `prefers-reduced-motion` disables the auto-cycle (dots/swipe still work).
+ * - `prefers-reduced-motion` disables autoplay (dots/swipe still work).
  *
+ * Each card owns its own timer, so many cards on one page never interfere.
  * The caller supplies the exact container `className` it already used, so
  * surrounding card layout is untouched. Opening the card is opt-in through
  * `onSelect`.
@@ -51,7 +53,7 @@ export default function ProjectCardMedia({
   const hasMultiple = count > 1
 
   const [active, setActive] = useState(0)
-  const [hovering, setHovering] = useState(false)
+  const [paused, setPaused] = useState(false)
   const [failed, setFailed] = useState(() => [])
   const [reduceMotion] = useState(
     () =>
@@ -73,14 +75,15 @@ export default function ProjectCardMedia({
     suppressClick.current = false
   }, [imageKey])
 
-  // Hover auto-cycle: subtle rotation, reset to first image on leave.
+  // Autoplay slideshow: advance until unmount, pause while hovered.
+  // Each card instance owns its timer, so simultaneous cards stay independent.
   useEffect(() => {
-    if (!hovering || !hasMultiple || reduceMotion) return
+    if (paused || !hasMultiple || reduceMotion) return
     const id = setInterval(() => {
       setActive((previous) => (previous + 1) % count)
     }, HOVER_INTERVAL_MS)
     return () => clearInterval(id)
-  }, [hovering, hasMultiple, reduceMotion, count])
+  }, [paused, hasMultiple, reduceMotion, count])
 
   const goTo = (next) => {
     if (count === 0) return
@@ -216,11 +219,8 @@ export default function ProjectCardMedia({
 
   const interactiveProps = hasMultiple
     ? {
-        onMouseEnter: () => setHovering(true),
-        onMouseLeave: () => {
-          setHovering(false)
-          setActive(0)
-        },
+        onMouseEnter: () => setPaused(true),
+        onMouseLeave: () => setPaused(false),
         onPointerDown,
         onPointerUp,
         onClickCapture: stopClick,
@@ -248,15 +248,8 @@ export default function ProjectCardMedia({
         }
         onSelect(event)
       }}
-      onMouseEnter={hasMultiple ? () => setHovering(true) : undefined}
-      onMouseLeave={
-        hasMultiple
-          ? () => {
-              setHovering(false)
-              setActive(0)
-            }
-          : undefined
-      }
+      onMouseEnter={hasMultiple ? () => setPaused(true) : undefined}
+      onMouseLeave={hasMultiple ? () => setPaused(false) : undefined}
       onPointerDown={hasMultiple ? onPointerDown : undefined}
       onPointerUp={hasMultiple ? onPointerUp : undefined}
       className={`relative ${className} group block w-full cursor-pointer border-0 bg-transparent p-0 text-left`}
