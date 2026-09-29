@@ -2,8 +2,9 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import Image from 'next/image'
-import { ChevronLeft, ChevronRight, ImageOff, Images } from 'lucide-react'
+import { ChevronLeft, ChevronRight, Expand, ImageOff, Images } from 'lucide-react'
 import { getProjectImages } from '@/lib/projectImages'
+import ProjectImageLightbox from '@/components/ProjectImageLightbox'
 
 const SWIPE_THRESHOLD = 48
 
@@ -31,6 +32,7 @@ export default function ProjectGallery({ project }) {
 
   const [index, setIndex] = useState(0)
   const [failed, setFailed] = useState(() => [])
+  const [lightboxOpen, setLightboxOpen] = useState(false)
   const pointerStart = useRef(null)
 
   const count = images.length
@@ -68,7 +70,8 @@ export default function ProjectGallery({ project }) {
   }, [])
 
   const onKeyDown = (event) => {
-    if (!hasMultiple) return
+    // The lightbox handles its own keyboard input while open.
+    if (lightboxOpen || !hasMultiple) return
 
     if (event.key === 'ArrowLeft') {
       event.preventDefault()
@@ -124,15 +127,26 @@ export default function ProjectGallery({ project }) {
         onPointerUp={onPointerUp}
       >
         {current && !currentFailed ? (
-          <Image
-            key={current}
-            src={current}
-            alt={altFor(index)}
-            fill
-            sizes="(max-width: 640px) 92vw, 640px"
-            className="object-contain animate-in fade-in duration-300"
-            onError={() => markFailed(current)}
-          />
+          <button
+            type="button"
+            onClick={() => setLightboxOpen(true)}
+            className="group/zoom block h-full w-full cursor-zoom-in focus:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-purple-500"
+            aria-label={`Open fullscreen viewer for ${project?.title}`}
+          >
+            <Image
+              key={current}
+              src={current}
+              alt={altFor(index)}
+              fill
+              sizes="(max-width: 640px) 92vw, 640px"
+              className="object-contain animate-in fade-in duration-300"
+              onError={() => markFailed(current)}
+            />
+            <span className="absolute bottom-2 left-2 sm:bottom-3 sm:left-3 inline-flex items-center gap-1.5 rounded-full border border-zinc-700 bg-zinc-900/80 px-2.5 py-1 text-[11px] font-medium text-zinc-200 opacity-0 backdrop-blur transition-opacity duration-300 group-hover/zoom:opacity-100 group-focus/zoom:opacity-100 focus-within:opacity-100">
+              <Expand className="h-3 w-3 text-purple-400" />
+              Fullscreen
+            </span>
+          </button>
         ) : (
           <div className={fallbackClass}>
             <ImageOff className="h-6 w-6 text-zinc-600" />
@@ -219,6 +233,16 @@ export default function ProjectGallery({ project }) {
             <Image key={`preload-${src}`} src={src} alt="" width={1280} height={960} />
           ))}
         </div>
+      )}
+
+      {lightboxOpen && current && !currentFailed && (
+        <ProjectImageLightbox
+          images={images}
+          index={index}
+          title={project?.title}
+          onSelect={goTo}
+          onClose={() => setLightboxOpen(false)}
+        />
       )}
     </div>
   )
