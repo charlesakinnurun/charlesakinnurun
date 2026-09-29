@@ -22,7 +22,7 @@ export const difficultyStyle = (difficulty) =>
  * desktop with a floor, 2/5 width beside the card body.
  */
 export const PROJECT_CARD_MEDIA_CLASSNAME =
-  "h-56 w-full shrink-0 md:h-auto md:min-h-[320px] md:w-2/5"
+  "h-44 w-full shrink-0 md:h-auto md:min-h-[240px] md:w-2/5"
 
 /**
  * Shared project card. The whole card opens the project modal; external
@@ -70,13 +70,13 @@ export default function ProjectCard({ project, onSelect, mediaClassName, showDif
         height={600}
       />
 
-      <div className="md:w-[90%] p-6 md:p-8 flex flex-col justify-between">
+      <div className="md:w-[90%] p-5 md:p-6 flex flex-col justify-between">
         <div>
-          <div className="flex justify-between items-start gap-3 mb-4">
+          <div className="flex justify-between items-start gap-3 mb-3">
             <div>
-              <h3 className="text-2xl font-bold text-white mb-1">{project.title}</h3>
+              <h3 className="text-xl font-bold text-white mb-1">{project.title}</h3>
               {project.subtitle && (
-                <p className="text-lg text-zinc-400">{project.subtitle}</p>
+                <p className="text-base text-zinc-400">{project.subtitle}</p>
               )}
             </div>
             <div className="flex items-center gap-3 shrink-0">
@@ -97,11 +97,11 @@ export default function ProjectCard({ project, onSelect, mediaClassName, showDif
           </div>
 
           {project.description && (
-            <p className="text-sm text-zinc-400 mb-4">{project.description}</p>
+            <p className="text-sm text-zinc-400 mb-3">{project.description}</p>
           )}
 
           {tags.length > 0 && (
-            <div className="flex flex-wrap gap-2 mb-4">
+            <div className="flex flex-wrap gap-2 mb-3">
               {tags.map((tag, tagIndex) => (
                 <span
                   key={tagIndex}
