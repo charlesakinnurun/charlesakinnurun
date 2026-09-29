@@ -58,7 +58,11 @@ export const projects = [
     difficulty: "Medium",
     subtitle: "CodeAlpha",
     description: "Developed a deep learning-based speech emotion recognition system that analyzes audio recordings and classifies human emotions such as happiness, sadness, anger, and neutrality. Extracted MFCC features from speech signals and trained neural network models to identify emotional patterns from audio data using datasets such as RAVDESS and TESS.",
-    image: "/codealpha-image.jpg",
+    images: [
+      "/jpmorganchase.png",
+      "/aws_ai_practitioner_challenge.jpg",
+    ],
+    //image: "/codealpha-image.jpg",
     tags: ["Python","CNN", "PyTorch", "RNN/LSTM", "MFCC", "Pandas", "Matplotlib", "Scikit-learn", "NumPy"],
     link: "https://github.com/charlesakinnurun/codealpha-emotion-speech-recognition",
     github: "https://github.com/charlesakinnurun/codealpha-emotion-speech-recognition"
