@@ -23,7 +23,7 @@ function Section({ icon: Icon, title, accent, children }) {
   )
 }
 
-export default function DetailsModal({ content, onClose }) {
+export default function DetailsModal({ content, onClose, children }) {
   const [closing, setClosing] = useState(false)
 
   useEffect(() => {
@@ -126,6 +126,8 @@ export default function DetailsModal({ content, onClose }) {
               {content.description}
             </p>
           )}
+
+          {children}
 
           {content.lists?.map(({ Icon, title, accent, itemIcon: ItemIcon, itemIconClass, items }) => (
             <Section key={title} icon={Icon} title={title} accent={accent}>
