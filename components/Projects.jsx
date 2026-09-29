@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { ArrowUpRight } from 'lucide-react'
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import ProjectCard from "@/components/ProjectCard"
+import ProjectCard, { PROJECT_CARD_MEDIA_CLASSNAME } from "@/components/ProjectCard"
 import ProjectModal from "@/components/ProjectModal"
 import { featuredProjects } from "@/data/projects"
 
@@ -24,7 +24,7 @@ export default function RecentProjects() {
               key={project.id ?? project.title}
               project={project}
               onSelect={() => setSelected(project)}
-              mediaClassName="md:w-2/5 min-h-[220px]"
+              mediaClassName={PROJECT_CARD_MEDIA_CLASSNAME}
             />
           ))}
         </div>
