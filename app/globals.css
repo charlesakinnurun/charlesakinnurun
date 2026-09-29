@@ -63,6 +63,11 @@
   }
 }
 
+/* Smooth scrolling for in-page anchors (e.g. #conversations) */
+html {
+  scroll-behavior: smooth;
+}
+
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
   width: 8px; /* Width of the scrollbar */
