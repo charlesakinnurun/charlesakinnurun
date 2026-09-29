@@ -17,6 +17,14 @@ export const difficultyStyle = (difficulty) =>
   DIFFICULTY_STYLES[difficulty] ?? DIFFICULTY_STYLES[DEFAULT_DIFFICULTY]
 
 /**
+ * Single media sizing shared by the homepage and /projects page so cards
+ * are pixel-identical everywhere. Fixed mobile height, natural height on
+ * desktop with a floor, 2/5 width beside the card body.
+ */
+export const PROJECT_CARD_MEDIA_CLASSNAME =
+  "h-56 w-full shrink-0 md:h-auto md:min-h-[320px] md:w-2/5"
+
+/**
  * Shared project card. The whole card opens the project modal; external
  * links (live demo / GitHub) stop propagation so they never trigger it.
  *
