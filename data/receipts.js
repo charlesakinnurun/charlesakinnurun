@@ -23,7 +23,7 @@ export const receipts = [
   },
   {
     id: 3,
-    image: "/receipts/aws-foundations-prompt-engineering.jpg",
+    image: "/amazon_web_services_logo.jpg",
     alt: "AWS Foundations Prompt Engineering course completion certificate",
     title: "AWS Foundations: Prompt Engineering",
     organization: "Amazon Web Services",
@@ -34,7 +34,7 @@ export const receipts = [
   },
   {
     id: 4,
-    image: "/receipts/claude-101.jpg",
+    image: "/anthropicresearch_logo.jpg",
     alt: "Anthropic Claude 101 course completion certificate",
     title: "Claude 101",
     organization: "Anthropic",
@@ -45,7 +45,7 @@ export const receipts = [
   },
   {
     id: 5,
-    image: "/receipts/mlops-generative-ai.jpg",
+    image: "/google_logo.jpg",
     alt: "Google MLOps for Generative AI course completion certificate",
     title: "MLOps for Generative AI",
     organization: "Google",
@@ -56,7 +56,7 @@ export const receipts = [
   },
   {
     id: 6,
-    image: "/receipts/ai-productivity-app.jpg",
+    image: "/aws-ai-productivity-app.webp",
     alt: "AI productivity app project result screenshot",
     title: "Build Your First AI Productivity App",
     organization: "AWS AI & ML Scholars · Udacity",
