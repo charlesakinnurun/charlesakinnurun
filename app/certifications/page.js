@@ -5,7 +5,7 @@ import { certifications } from "@/data/certifications";
 import CertificationCard from "@/components/CertificationCard";
 import Pagination from "@/components/Pagination";
 
-const CERTIFICATIONS_PER_PAGE = 3
+const CERTIFICATIONS_PER_PAGE = 6
 
 export default function Certifications() {
   const [currentPage, setCurrentPage] = useState(1)
