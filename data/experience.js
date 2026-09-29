@@ -666,7 +666,7 @@ export const volunteeringExperiences = [
   },
   {
     id: "nacos",
-    company: "Nigeria Association of Computing Students (NACOS)",
+    company: "NACOS",
     role: "Member",
     type: "Science and Technology",
     period: "Oct 2023 -Present",
@@ -682,7 +682,7 @@ export const volunteeringExperiences = [
   },
   {
     id: "nsbe",
-    company: "National Society of Black Engineers (NSBE)",
+    company: "NSBE",
     role: "Member",
     type: "Science and Technology",
     period: "Jan 2024 - Present",
