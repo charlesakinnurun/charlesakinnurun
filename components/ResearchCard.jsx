@@ -1,5 +1,4 @@
 import { ArrowUpRight, BookOpen, FileText, FlaskConical, Github } from 'lucide-react'
-import { Card } from "@/components/ui/card"
 import Image from "next/image"
 
 const statusStyles = {
@@ -25,25 +24,26 @@ export default function ResearchCard({ item, onSelect }) {
   const venue = [item.source, item.publicationVenue].filter(Boolean).join(" · ")
 
   return (
-    <Card className="group bg-transparent hover:bg-[#242424] border-zinc-800 transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/10 hover:-translate-y-0.5 p-6">
-      <div className="flex items-start gap-5">
-        <div className="relative w-14 h-14 shrink-0 rounded-lg bg-zinc-800 flex items-center justify-center overflow-hidden">
+    <div className="bg-zinc-900 rounded-lg p-5 sm:p-6">
+      <div className="flex items-start gap-4 sm:gap-5">
+        <div className="relative w-12 h-12 sm:w-14 sm:h-14 shrink-0 rounded-lg border border-zinc-700/60 bg-zinc-800 flex items-center justify-center overflow-hidden">
           {item.image ? (
             <Image
               src={item.image}
               alt={`${item.title} cover`}
               fill
-              className="object-contain"
+              sizes="56px"
+              className="object-contain rounded-lg p-1.5"
             />
           ) : (
-            <FlaskConical className="w-6 h-6 text-purple-400" />
+            <FlaskConical className="w-6 h-6 sm:w-7 sm:h-7 text-purple-400" />
           )}
         </div>
 
         <div className="flex-1 min-w-0">
           <div className="flex items-start justify-between gap-3">
             <div className="min-w-0">
-              <h3 className="text-lg font-semibold text-white leading-tight mb-1 line-clamp-2">
+              <h3 className="text-lg sm:text-xl font-bold text-white leading-snug mb-1">
                 {item.title}
               </h3>
               <p className="text-sm text-zinc-400">
@@ -127,6 +127,6 @@ export default function ResearchCard({ item, onSelect }) {
           </div>
         </div>
       </div>
-    </Card>
+    </div>
   )
 }
