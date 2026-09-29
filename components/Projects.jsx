@@ -18,7 +18,7 @@ export default function RecentProjects() {
           Featured Projects
         </h2>
 
-        <div className="space-y-12">
+        <div className="space-y-8">
           {featuredProjects.map((project) => (
             <ProjectCard
               key={project.id ?? project.title}
