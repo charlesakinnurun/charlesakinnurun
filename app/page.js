@@ -15,9 +15,9 @@ export default function Home() {
   return (
    <div className = "bg-[#151312]">
    <Hero/>
+   <Experience/>
    <Education/>
    <Projects/>
-   <Experience/>
    <OpenSource/>
    <Certifications/>
    <Receipts/>
