@@ -14,7 +14,7 @@ export default function EducationCard({ title, entries }) {
         return (
           <div
             key={edu.id}
-            className="bg-zinc-900 rounded-lg p-5 sm:p-6"
+            className="bg-zinc-900 rounded-lg p-5 sm:p-6 transition-all duration-300 motion-safe:hover:-translate-y-1 hover:shadow-lg hover:shadow-black/50"
           >
             <div className="flex items-start gap-4 sm:gap-5">
               <div className="relative w-12 h-12 sm:w-14 sm:h-14 shrink-0 rounded-lg border border-zinc-700/60 bg-zinc-800 overflow-hidden flex items-center justify-center">
