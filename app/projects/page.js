@@ -2,15 +2,13 @@
 
 import { useState } from 'react'
 import Pagination from "@/components/Pagination"
-import ProjectCard, { PROJECT_CARD_MEDIA_CLASSNAME } from "@/components/ProjectCard"
-import ProjectModal from "@/components/ProjectModal"
+import ProjectCard from "@/components/ProjectCard"
 import { projects } from "@/data/projects"
 
 const PROJECTS_PER_PAGE = 6
 
 export default function Projects() {
   const [currentPage, setCurrentPage] = useState(1)
-  const [selected, setSelected] = useState(null)
 
   const totalPages = Math.ceil(projects.length / PROJECTS_PER_PAGE)
   const startIndex = (currentPage - 1) * PROJECTS_PER_PAGE
@@ -27,8 +25,6 @@ export default function Projects() {
             <ProjectCard
               key={project.id ?? project.title}
               project={project}
-              onSelect={() => setSelected(project)}
-              mediaClassName={PROJECT_CARD_MEDIA_CLASSNAME}
               showDifficulty
             />
           ))}
@@ -41,13 +37,6 @@ export default function Projects() {
         />
 
       </div>
-
-      {selected && (
-        <ProjectModal
-          project={selected}
-          onClose={() => setSelected(null)}
-        />
-      )}
     </section>
   )
 }
