@@ -18,14 +18,13 @@ export default function Projects() {
     <section className="min-h-screen py-10 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
       <h2 className="text-4xl sm:text-6xl lg:text-5xl font-bold mb-10 text-center bg-gradient-to-r from-white to-zinc-600 text-transparent bg-clip-text">
-           My Projects
+           Featured Projects
           </h2>
         <div key={currentPage} className="space-y-8 animate-in fade-in duration-300">
           {paginatedProjects.map((project) => (
             <ProjectCard
               key={project.id ?? project.title}
               project={project}
-              showDifficulty
             />
           ))}
         </div>
