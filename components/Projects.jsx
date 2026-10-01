@@ -1,16 +1,10 @@
-'use client'
-
-import { useState } from 'react'
 import { ArrowUpRight } from 'lucide-react'
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import ProjectCard, { PROJECT_CARD_MEDIA_CLASSNAME } from "@/components/ProjectCard"
-import ProjectModal from "@/components/ProjectModal"
+import ProjectCard from "@/components/ProjectCard"
 import { featuredProjects } from "@/data/projects"
 
 export default function RecentProjects() {
-  const [selected, setSelected] = useState(null)
-
   return (
     <section className="min-h-screen py-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
@@ -23,8 +17,6 @@ export default function RecentProjects() {
             <ProjectCard
               key={project.id ?? project.title}
               project={project}
-              onSelect={() => setSelected(project)}
-              mediaClassName={PROJECT_CARD_MEDIA_CLASSNAME}
             />
           ))}
         </div>
@@ -42,13 +34,6 @@ export default function RecentProjects() {
           </Link>
         </div>
       </div>
-
-      {selected && (
-        <ProjectModal
-          project={selected}
-          onClose={() => setSelected(null)}
-        />
-      )}
     </section>
   )
 }
