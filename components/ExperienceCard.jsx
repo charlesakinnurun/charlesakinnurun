@@ -27,7 +27,7 @@ function LogoBox({ logo, company }) {
 
 /**
  * Minimal static experience list: logo, company, role, period.
- * Deliberately non-interactive — no hover effects, no click, no modal.
+ * Subtle hover lift, matching Education cards.
  * Every card is a fixed, uniform size: all text lines truncate to one line
  * and a min-height guard covers entries missing optional fields.
  */
@@ -42,7 +42,7 @@ export default function ExperienceCard({ title, experiences }) {
         return (
           <div
             key={exp.id}
-            className="bg-zinc-900 light:bg-white light:ring-1 light:ring-zinc-900/10 light:shadow-sm rounded-lg p-5 sm:p-6 min-h-[120px] sm:min-h-[132px]"
+            className="bg-zinc-900 light:bg-white light:ring-1 light:ring-zinc-900/10 light:shadow-sm rounded-lg p-5 sm:p-6 min-h-[120px] sm:min-h-[132px] transition-all duration-300 motion-safe:hover:-translate-y-1 hover:shadow-lg hover:shadow-black/50"
           >
             <div className="flex items-start gap-4 sm:gap-5">
               <LogoBox logo={exp.logo} company={company} />
