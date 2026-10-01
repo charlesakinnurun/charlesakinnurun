@@ -1,8 +1,5 @@
-'use client'
-
 import { ArrowUpRight, Github } from 'lucide-react'
 import { Button } from "@/components/ui/button"
-import ProjectCardMedia from "@/components/ProjectCardMedia"
 import { getProjectGithubUrl, getProjectLiveUrl, getProjectTags } from '@/lib/projectImages'
 
 const DIFFICULTY_STYLES = {
@@ -17,60 +14,31 @@ export const difficultyStyle = (difficulty) =>
   DIFFICULTY_STYLES[difficulty] ?? DIFFICULTY_STYLES[DEFAULT_DIFFICULTY]
 
 /**
- * Single media sizing shared by the homepage and /projects page so cards
- * are pixel-identical everywhere. Fixed mobile height, natural height on
- * desktop with a floor, 2/5 width beside the card body.
+ * @deprecated Media panel removed — cards are now full-width content only.
+ * Kept so existing imports of PROJECT_CARD_MEDIA_CLASSNAME don't break.
  */
-export const PROJECT_CARD_MEDIA_CLASSNAME =
-  "h-44 w-full shrink-0 md:h-auto md:min-h-[240px] md:w-2/5"
+export const PROJECT_CARD_MEDIA_CLASSNAME = ""
 
 /**
- * Shared project card. The whole card opens the project modal; external
- * links (live demo / GitHub) stop propagation so they never trigger it.
+ * Shared project card (full-width content, no image/media panel).
+ * Static — no modal. External links (live demo / GitHub) open in a new tab.
  *
  * @param {{
  *   project: import('@/lib/projectImages').Project,
- *   onSelect: () => void,
- *   mediaClassName?: string,
  *   showDifficulty?: boolean,
  * }} props
  */
-export default function ProjectCard({ project, onSelect, mediaClassName, showDifficulty = false }) {
+export default function ProjectCard({ project, showDifficulty = false }) {
   const tags = getProjectTags(project)
   const liveUrl = getProjectLiveUrl(project)
   const githubUrl = getProjectGithubUrl(project)
-
-  const openDetails = (event) => {
-    event.stopPropagation()
-    onSelect()
-  }
+  const hasLinks = Boolean(liveUrl || githubUrl)
 
   return (
     <div
-      role="button"
-      tabIndex={0}
-      onClick={onSelect}
-      onKeyDown={(event) => {
-        if (event.key === 'Enter' || event.key === ' ') {
-          // Let nested links/buttons handle their own keys.
-          if (event.target.closest('a,button')) return
-          event.preventDefault()
-          onSelect()
-        }
-      }}
-      aria-label={`View details for ${project.title}`}
-      className="group flex cursor-pointer flex-col overflow-hidden rounded-2xl bg-zinc-900 transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/20 md:flex-row"
+      className="overflow-hidden rounded-2xl bg-zinc-900 transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/20"
     >
-      <ProjectCardMedia
-        project={project}
-        className={mediaClassName}
-        imageClassName="object-cover w-full h-full"
-        fill={false}
-        width={800}
-        height={600}
-      />
-
-      <div className="md:w-[90%] p-5 md:p-6 flex flex-col justify-between">
+      <div className="w-full p-5 md:p-6 flex flex-col justify-between">
         <div>
           <div className="flex justify-between items-start gap-3 mb-3">
             <div>
@@ -87,12 +55,6 @@ export default function ProjectCard({ project, onSelect, mediaClassName, showDif
                   {project.difficulty || DEFAULT_DIFFICULTY}
                 </span>
               )}
-              <span
-                aria-hidden="true"
-                className="text-white transition-all duration-300 group-hover:translate-x-1 group-hover:-translate-y-1 group-hover:text-purple-400"
-              >
-                <ArrowUpRight className="w-6 h-6" />
-              </span>
             </div>
           </div>
 
@@ -114,23 +76,14 @@ export default function ProjectCard({ project, onSelect, mediaClassName, showDif
           )}
         </div>
 
-        <div className="flex justify-between items-center">
-          <button
-            type="button"
-            onClick={openDetails}
-            className="inline-flex items-center text-white hover:text-purple-400 transition-colors duration-300"
-            aria-label={`View details for ${project.title}`}
-          >
-            View Project
-            <ArrowUpRight className="ml-1 w-4 h-4" />
-          </button>
+        {hasLinks && (
+        <div className="flex justify-end items-center">
           <div className="flex items-center gap-2">
             {liveUrl && (
               <a
                 href={liveUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                onClick={(event) => event.stopPropagation()}
                 className="inline-flex items-center text-xs text-zinc-400 hover:text-white transition-colors duration-300"
                 aria-label={`Open live demo for ${project.title} (opens in new tab)`}
               >
@@ -143,7 +96,6 @@ export default function ProjectCard({ project, onSelect, mediaClassName, showDif
                 href={githubUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                onClick={(event) => event.stopPropagation()}
                 className="inline-flex items-center text-black hover:text-purple-900 transition-colors duration-300"
                 aria-label={`GitHub repository for ${project.title} (opens in new tab)`}
               >
@@ -155,6 +107,7 @@ export default function ProjectCard({ project, onSelect, mediaClassName, showDif
             )}
           </div>
         </div>
+        )}
       </div>
     </div>
   )
