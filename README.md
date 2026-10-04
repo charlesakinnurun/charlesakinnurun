@@ -1,5 +1,5 @@
-## Hi there, I'm Charles Akinnurun <!--(he/him)--> 👋
-
+<!-- ## Hi there, I'm Charles Akinnurun <!--(he/him)--> <!--👋-->
+<!-- 
 <p align="center">
   <a href="https://charlesakinnurun.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
   <a href="mailto:charlesakinnurun@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -237,11 +237,13 @@ _Placeholder rows are marked above — fill in the repository link, a one-line d
 
 <div>
   <!-- LANGUAGES -->
+  <!-- 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" />
   <img alt="Julia" src="https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white" />
   <!-- LIBRARIES / FRAMEWORKS -->
+  <!--
   <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -259,10 +261,11 @@ _Placeholder rows are marked above — fill in the repository link, a one-line d
   <img alt="XGBoost" src="https://img.shields.io/badge/-XGBoost-AA4A44?style=flat-square&logo=xgboost&logoColor=white" />
   <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful%20Soup-8B4513?style=flat-square&logo=python&logoColor=white" />
   <!-- DATABASES -->
+  <!--
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-K8S-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-K8S-326ce5?style=flat-square&logo=kubernetes&logoColor=white" /
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -275,4 +278,5 @@ _Placeholder rows are marked above — fill in the repository link, a one-line d
   <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FF9900?style=flat-square&logo=huggingface&logoColor=white" />
   <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-5C2D91?style=flat-square&logo=pytest&logoColor=white"/>
   <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
+  -->
 </div>
